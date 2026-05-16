@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#121212" />
+  <meta name="color-scheme" content="dark" />
+  <title>📰 News Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>News Dashboard</h1>
+    <p class="meta">
+      Last updated <span id="updated-at">로딩중...</span>
+      <span class="badge">AUTO · 08:00 / 20:00 KST</span>
+    </p>
+    <div class="tabs" id="tabs"></div>
+    <input id="search" type="search" placeholder="제목, 설명, 키워드 검색..." />
+  </header>
+
+  <main id="news-container">
+    <p class="loading">뉴스를 불러오는 중...</p>
+  </main>
+
+  <footer>
+    <p>POWERED BY GITHUB ACTIONS · PAGES</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
