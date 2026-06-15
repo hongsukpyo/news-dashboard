@@ -1,550 +1,330 @@
 {
-  "generated_at": "2026-06-15T09:10:38.404781+09:00",
+  "generated_at": "2026-06-16T01:16:45.268094+09:00",
   "categories": {
     "AI/테크": [
       {
-        "title": "정부 산업재해 강력 경고 통했나…건설업, 사망 사고 큰 폭 감소",
-        "summary": "다만 사고의 상당수가 중소 규모 현장에서 발생하는 만큼 규제 정책과 함께 지원 대책도 병행해야 한다는... 예를 들어 현대건설, 대우건설, GS건설, 롯데건설 등은 현장에 인공지능(AI) 기반 통역·번역 시스템을 확대...",
-        "link": "https://www.g-enews.com/view.php?ud=202606150846207596ea13369bfa_1",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 규제"
+        "title": "Roblox exec says ticking a box for age verification is &#8216;not enough anymore&#8217;",
+        "summary": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box",
+        "link": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T15:52:17",
+        "category": "AI/테크"
       },
       {
-        "title": "틸론, 서울·제주 대규모 전력 확보…'AI 데이터센터 사업' 추진",
-        "summary": "또한 엣지데이터센터는 인허가 관련 행정적 부담은 물론 개발 기간도 단축할 수 있으며 생성형 AI의 확산으로 기업들의 GPU 수요가 급증하는 반면, 이를 뒷받침할 데이터센터 전력 공급은 극심한 난항을 겪고 있는...",
-        "link": "http://www.itdaily.kr/news/articleView.html?idxno=239840",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+        "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil",
+        "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-15T15:29:51",
+        "category": "AI/테크"
       },
       {
-        "title": "이문형 티디지 사장, \"기술 내재화가 생존 경쟁력\" 강조",
-        "summary": "생성형 AI와 AI 에이전트 기술이 빠르게 확산되면서 고객들이 단순히 제품을 공급하거나 구축을 지원하는 파트너보다 AI를 활용해 설계·구축·운영까지 수행할 수 있는 전문 역량을 갖춘 기업을 찾고 있다는...",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571449179382",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+        "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (",
+        "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+        "source": "www.technologyreview.com",
+        "pub_date": "2026-06-15T15:12:28",
+        "category": "AI/테크"
       },
       {
-        "title": "틸론, 서울·제주 대규모 전력 확보로 'AI 데이터센터 사업 ' 추진 본격...",
-        "summary": "최근 생성형 AI의 확산으로 기업들의 그래픽처리장치(GPU) 수요가 급증하는 반면, 이를 뒷받침할 데이터센터 전력 공급은 극심한 난항을 겪고 있기 때문에 틸론 사옥의 전력공급 확보는 시장의 지대한 관심을 받을 수...",
-        "link": "https://www.etnews.com/20260615000027",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:07:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "My favorite Qi2 power bank is cheaper than ever for Verge readers",
+        "summary": "I recently published a buying guide on the best Qi2 power banks. Out of seven feature-packed batteries, I really dug the Baseus AM52 10,000mAh power bank that has a built-in USB-C cable. It’s fast at",
+        "link": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T14:39:24",
+        "category": "AI/테크"
       },
       {
-        "title": "위기 진단부터 디지털 교육까지…소진공 지원사업",
-        "summary": "특히 AI 활용 교육이 필수 커리큘럼으로 편성돼 소상공인이 생성형 AI 서비스로 사업 효율화를 높이는 데 도움이 될 전망이다. 대학별로 180명(학기당 60명·내외 연간 3학기)을 모집하며 소상공인 24에서 신청하면 된다.",
-        "link": "https://www.newsis.com/view/NISX20260615_0003668825",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:07:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+        "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+        "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-15T14:34:45",
+        "category": "AI/테크"
       },
       {
-        "title": "외국인 돌아온 코스피, 반도체 독주에 더 짙어진 시장 양극",
-        "summary": "삼성전자의 강세에는, 구글의 차세대 AI 반도체 생산 검토 소식이 한층 더 힘을 보탠 것으로 풀이된다. 미국 IT 전문 매체 디 인포메이션은, 구글이 코드명 '아이스피시'로 불리는 10세대 TPU의 일부 생산을 삼성전자...",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=146124",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
+        "title": "The Verge’s Father’s Day 2026 gift guide",
+        "summary": "With Father's Day on the horizon, happening June 21st, it's time to start thinking about what kind of gifts you want to buy for the fathers you care about. You know your dad best - he may be a man of",
+        "link": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T14:23:21",
+        "category": "AI/테크"
       },
       {
-        "title": "트럼프, 이란 합의 들고 G7 정상회의行",
-        "summary": "CNBC에 따르면 오픈AI는 샘 올트먼 최고경영자(CEO)도 G7 회의에 참석해 정상들과 논의에 참여할 예정이다. 블룸버그는 앤스로픽과 구글 경영진도 회의에 참석할 예정이라고 전했다. ◇이란 합의가 정상회의 분위기 좌우...",
-        "link": "https://www.g-enews.com/view.php?ud=2026061509000879359a1f309431_1",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
+        "title": "Happy birthday to the Trump phone",
+        "summary": "From the day it was announced, on June 16th, 2025, the Trump phone sounded ridiculous. The T1 Phone 8002 (gold version), as it was officially called, was a combination of contradictory specs, product",
+        "link": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T14:15:00",
+        "category": "AI/테크"
       },
       {
-        "title": "[신사업 청사진]신한카드, 결제 앱의 진화…1900만 사로잡은 '슈퍼앱'",
-        "summary": "신한카드는 이에 대응해 비규제 상품 위주로 포트폴리오를 다변화하고 AI와 디지털 기술을 활용한 모집 채널 효율화 작업을 병행하고 있다. 신한카드 관계자는 \"시장 불확실성 지속과 저출산·고령화에 따른 평균 소비...",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=77759",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 규제"
+        "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+        "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay",
+        "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T14:00:00",
+        "category": "AI/테크"
       },
       {
-        "title": "서울 의료관광 200만 시대…'통역 코디네이터' 전문성 키운다",
-        "summary": "단순 번역가가 아니라 생성형 AI를 관리·검수하는 'AI 감독관' 역할이 중요해지고 있다는 것이다. 그는 챗GPT 등 생성형 AI에 의료 맥락과 국가별 문화 차이, 환자 특성에 맞는 톤앤매너를 얼마나 정교하게 입력하느냐가...",
-        "link": "https://www.k-health.com/news/articleView.html?idxno=93013",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+        "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+        "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-15T13:46:08",
+        "category": "AI/테크"
       },
       {
-        "title": "SK쉴더스, 글로벌 AI 해킹대회 1위",
-        "summary": "김병무 SK쉴더스 사이버보안부문장(부사장)은 \"생성형 AI가 산업 전반으로 확산되면서 AI 보안은 필수 역량이 되고 있다\"며 \"대회에서 검증한 AI 레드팀 역량을 바탕으로 고객이 AI를 안전하고 신뢰성 있게 활용할 수...",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308133",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "Google Earth’s flight simulator is now available in your browser",
+        "summary": "On Friday Google announced it was making a relatively unknown feature of Google Earth available to a wider audience. The desktop version of Google Earth has had a hidden flight simulator mode since 20",
+        "link": "https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T13:13:23",
+        "category": "AI/테크"
       },
       {
-        "title": "“AI는 인류공영 위한 도구”… 천지일보, AI 포럼 GAFH 2026 개최",
-        "summary": "포럼에는 학계·산업계·국제기구 관계자들이 참석해 AI 거버넌스와 인간 중심 가치, 신뢰 가능한 AI 발전 방향 등을 논의했다. 이상면 천지일보 대표는 개회사에서 “AI는 산업과 경제를 넘어 인류 문명의 향방을 바꾸고...",
-        "link": "https://www.joongang.co.kr/article/25436759",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:05:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 거버넌스"
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+        "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-15T13:00:00",
+        "category": "AI/테크"
       },
       {
-        "title": "시리, 제미나이 품었지만…‘일일 한도’로 추가 결제 유도하나",
-        "summary": "그간 삼성전자(005930)에 비해 ‘온디바이스 AI’ 후발 주자로 여겨졌던 애플이 폐쇄적 기술 전략을 깨고 구글과 동맹을 통해 반격의 승부수를 던진 셈이다. 새로운 시리 AI는 메시지·이메일·사진 등을 종합적으로 분석해...",
-        "link": "https://www.sedaily.com/article/20055652?ref=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:04:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
+        "title": "The Download: cutting AC emissions, and nature’s drug designer",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. S",
+        "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+        "source": "www.technologyreview.com",
+        "pub_date": "2026-06-15T12:10:00",
+        "category": "AI/테크"
       },
       {
-        "title": "[주간 클라우드 동향/6월②] 네이버클라우드, 국방 AX 정조준…소버린 ...",
-        "summary": "김유원 네이버클라우드 대표가 직접 총괄을 맡고 AI 모델 개발과 사업 개발, 홍보마케팅 기능을 한데... 해외 LLM API와 클라우드 GPU 인프라를 쓰는 국내 AI 기업들의 비용 부담이 커지고 있다. 생성형 AI 서비스는 입력...",
-        "link": "https://www.ddaily.co.kr/page/view/2026061509023509076",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:04:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+        "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-15T12:00:00",
+        "category": "AI/테크"
       },
       {
-        "title": "[Tech & Now] 엔젤로보틱스, 300억원 규모 '브레인 연동 웨어러블 휴머노...",
-        "summary": "이번 부산역에 도입된 시스템은 코난 거대언어모델(LLM) 기반의 생성형 AI 기술을 접목해 '무인 지능형 대화형 안내 서비스'를 제공한다. 이용객은 키오스크를 통해 자국어로 도시철도 이용법, 운임, 환승 경로, 주변...",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1712437",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:04:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
+        "title": "Fox is buying Roku",
+        "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion. Once the deal is complete, Fox content will be promoted more heavily than before on Rok",
+        "link": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T11:44:08",
+        "category": "AI/테크"
       },
       {
-        "title": "LG유플러스, 가정·소상공인 대상 200M 인터넷 요금제 출시",
-        "summary": "가정에서는 고화질 영상 콘텐츠 시청과 생성형 AI 활용, 다수의 스마트기기 연결이 늘고 있다. 소상공인 매장에서도 POS, 키오스크, CCTV, PC 등 여러 기기를 동시에 사용하는 환경이 보편화되면서 속도와 안정성에...",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=709676",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:04:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+        "summary": "Through more than two decades of travel for both work and leisure, my packing list has evolved from a random assortment of gadgets and accessories thrown together at the last minute into a refined che",
+        "link": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T11:30:00",
+        "category": "AI/테크"
       },
       {
-        "title": "AI활용~온라인 판매 실습까지…소진공, 소상공인 디지털 특성화대학 교...",
-        "summary": "특히 올해는 AI활용 교육을 필수 커리큘럼으로 편성해 소상공인이 생성형 AI서비스를 통해 사업을 더욱 손쉽고 효율적으로 운영할 방안을 교육할 예정이다. 대학별 모집인원은 180명(학기당 60명 내외, 연간 3학기 운영)...",
-        "link": "https://www.mt.co.kr/economy/2026/06/15/2026061508261154801",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:03:00+09:00",
-        "category": "AI/테크",
-        "query": "생성형 AI"
+        "title": "Honor’s Magic V6 sets three foldable firsts",
+        "summary": "On paper, the Honor Magic V6 sounds like a tremendous leap forward for foldable phones: It's the thinnest one yet, with the biggest battery, and the best water-resistance ever. In practice, only the b",
+        "link": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T11:00:00",
+        "category": "AI/테크"
       },
       {
-        "title": "코난테크놀로지, 부산역에 생성형 AI 통역 안내 서비스 '링고엑스' 도입",
-        "summary": "이번 부산역 시스템에는 코난테크놀로지의 자체 거대언어모델(LLM) 기반 생성형 AI 기술이 적용돼 단순 번역을 넘어 '무인 지능형 대화형 안내 서비스'로 고도화됐다. 이용객은 키오스크를 통해 자국어로 도시철도 이용...",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403004",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:02:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
+        "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+        "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will",
+        "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+        "source": "www.technologyreview.com",
+        "pub_date": "2026-06-15T09:00:00",
+        "category": "AI/테크"
       },
       {
-        "title": "택스아이 운영사 뉴아이, 포브스 사회공헌대상 수상 및 정부·금융권 육...",
-        "summary": "자산 및 부동산 세금 AI 솔루션 ‘택스아이(TAX AI)’를 운영하는 뉴아이는 복잡한 부동산 세금 정보 접근성... 프로그램인 ‘구글 창구 프로그램’에 선정되어 육성 패키지를 수행하고 있다. 이밖에 뉴아이는 2024년...",
-        "link": "https://www.seoul.co.kr/news/economy/2026/06/12/20260612500117?wlog_tag3=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:01:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
+        "title": "Under-16 social media ban announced by UK government",
+        "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early",
+        "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+        "source": "www.theverge.com",
+        "pub_date": "2026-06-15T08:19:09",
+        "category": "AI/테크"
       },
       {
-        "title": "디엠케이글로벌, AI 에이전트 시대 흐름 담은 'AI Summit Seoul & EXPO 2026'...",
-        "summary": "Afanasyev) 구글 클라우드, AI를 활용한 과학적 발견을 연구하는 MS 리서치(MS Research)의 호이펑 푼(Hoifung Poon), 프런티어 소형 모델 분야 전문가인 리퀴드 AI(Liquid AI)의 막심 라본(Maxime Labonne) 등이 확정...",
-        "link": "https://magazine.hankyung.com/business/article/202606123593b",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:01:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
+        "title": "The AI layoff wave is becoming a powder keg",
+        "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+        "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-15T07:25:41",
+        "category": "AI/테크"
       },
       {
-        "title": "30년차 개발자 이석현 \"프롬프트보다 질문의 힘이 중요합니다\"",
-        "summary": "LLM, RAG, AI 에이전트 등 핵심 용어도 기술과 투자 관점에서 정리했다. 2부 '투자의 지도'는 AI 골드러시에서 돈이 어디로 흐르는지를 추적한다. 엔비디아와 AMD, 빅테크 자체 칩, 클라우드 3사, 오픈소스와 폐쇄형 AI 모델...",
-        "link": "https://www.news1.kr/life-culture/book/6196893",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:01:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
+        "title": "As AI companies race to go public, who else is along for the ride?",
+        "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+        "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+        "source": "techcrunch.com",
+        "pub_date": "2026-06-14T16:38:09",
+        "category": "AI/테크"
       }
     ],
     "경제": [
       {
-        "title": "[속보] 코스피 8526.12(▲402.50p, 4.95%), 원·달러 환율 1511.4(▼8.4원)...",
-        "summary": "코스피 8526.12(▲402.50p, 4.95%), 원·달러 환율 1511.4(▼8.4원) 개장",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5199786",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "Waste Management of Canada Eyes Selling C$750 Million of Bonds",
+        "summary": "Waste Management of Canada is looking to sell as much as C$750 million ($536 million) of notes as soon as this week, according to people with knowledge of the matter.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/waste-management-of-canada-eyes-selling-c-750-million-of-bonds",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T16:05:47",
+        "category": "경제"
       },
       {
-        "title": "[속보] 코스피 급등에 매수 사이드카 발동",
-        "summary": "",
-        "link": "http://www.yonhapnewstv.co.kr/news/AKR20260615090833UNV",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "Banks Vie to Underwrite £5 Billion Intertek Buyout Debt",
+        "summary": "Bankers are lining up debt packages of about £5 billion ($6.7 billion) to back a potential takeover of British product-testing firm Intertek Group Plc by private equity firm EQT AB.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/banks-vie-to-underwrite-5-billion-intertek-buyout-debt",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T15:32:25",
+        "category": "경제"
       },
       {
-        "title": "[코스피] 402.50포인트(4.95%) 오른 8526.12 출발",
-        "summary": "402.50포인트(4.95%) 오른 8526.12 출발",
-        "link": "https://www.sedaily.com/article/20055667?ref=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "Montreal Transit System REM to Sell Around C$2 Billion Bonds",
+        "summary": "Réseau express métropolitain (REM), an automated light metro system in Greater Montreal, is looking to raise around C$2 billion ($1.43 million) in a bond sale as soon as this week, according to people",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/montreal-transit-system-rem-to-sell-around-c-2-billion-bonds",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T15:26:40",
+        "category": "경제"
       },
       {
-        "title": "[속보] 코스피 매수 사이드카 발동…올 들어 14번째",
-        "summary": "",
-        "link": "https://www.sedaily.com/article/20055665?ref=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "Nuveen Private Bond Chief Scoops Up AI’s ‘Picks and Shovels’",
+        "summary": "Data centers and computing chips are all the rage in global credit markets right now, but Nuveen LLC’s Laura Parrott is more excited about the “boring, plain vanilla” infrastructure on the outskirts o",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/nuveen-private-bond-chief-scoops-up-ai-s-picks-and-shovels",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T15:18:04",
+        "category": "경제"
       },
       {
-        "title": "[속보] 코스피 매수 사이드카 발동",
-        "summary": "[속보] 코스피 매수 사이드카 발동",
-        "link": "https://www.dailian.co.kr/news/view/1655823/?sc=Naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "Knicks Win, Giving Tortured Fans First NBA Title in 53 Years",
+        "summary": "The New York Knicks ended one of the longest championship droughts in the NBA, bringing relief to their long-suffering fans.\n\nOn Saturday night, the franchise won its first title since 1973, and third",
+        "link": "https://www.bloomberg.com/news/videos/2026-06-15/knicks-win-giving-fans-first-nba-title-in-53-years-video",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T15:11:47",
+        "category": "경제"
       },
       {
-        "title": "[속보] 코스피 4%대 급등에 매수 사이드카…8500선 회복",
-        "summary": "",
-        "link": "https://www.seoul.co.kr/news/economy/securities/2026/06/15/20260615500021?wlog_tag3=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "US Manufacturing Output Stalls for the First Time This Year",
+        "summary": "US manufacturing production stalled in May after four months of gains as a drop in chemical and petroleum output masked ongoing strength in categories tied to the data center boom.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/us-manufacturing-output-stalls-for-the-first-time-this-year",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T13:17:57",
+        "category": "경제"
       },
       {
-        "title": "[코스닥] 19.14포인트(1.86%) 오른 1048.19 출발",
-        "summary": "19.14포인트(1.86%) 오른 1048.19 출발",
-        "link": "https://www.sedaily.com/article/20055668?ref=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:09:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
+        "title": "US Stocks Rally on Deal to Reopen Strait of Hormuz; SpaceX Gains",
+        "summary": "US stocks rose sharply after the US and Iran reached an interim deal to reopen the Strait of Hormuz, sending oil prices lower and easing concern about inflation ahead of Kevin Warsh’s first meeting as",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/us-stocks-set-to-rally-on-iran-deal-to-reopen-strait-of-hormuz",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T08:16:07",
+        "category": "경제"
       },
       {
-        "title": "美증시, 스페이스X IPO 성공후 AI 강세장 확신…'10점 만점에 10점'",
-        "summary": "스페이스X 종목 현재가인포맥스 제공 이종혁 선임기자 = 미국 증시가 스페이스X의 기업공개(IPO) 성공 후 인공지능(AI) 강세장이 더 이어질 것이라는 확신을 얻었다는 진단이 나왔다. 14일(현지 시각) 야후파이낸스에...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419920",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "미국 증시"
+        "title": "SpaceX Jumps 11% in Second Day of Trading After Record IPO",
+        "summary": "SpaceX shares jumped in their second day of trading, adding to gains following a blockbuster debut that instantly vaulted it into the ranks of the world’s most valuable public companies.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T08:08:26",
+        "category": "경제"
       },
       {
-        "title": "\"전쟁 끝 보인다\"…코스피, 4.95% 상승한 8500선 출발",
-        "summary": "민주신문=이한호 기자｜15일 한국거래소에 따르면 코스피는 전 거래일보다 402.50포인트(4.95%) 상승한 8526.12에 장을 열었다. 주말 사이 미국과 이란 간 종전 협상이 급물살을 타면서 투자심리가 크게 개선된...",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=165257",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "코스피"
+        "title": "Aluminum Slumps as Iran Peace Deal Softens Blow of Supply Crisis",
+        "summary": "Aluminum slumped to the lowest in more than two months as an interim agreement between the US and Iran laid the groundwork for the resumption of metal shipments through the Strait of Hormuz.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-15/copper-pops-higher-as-us-iran-agreement-puts-bulls-in-charge",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-15T02:18:04",
+        "category": "경제"
       },
       {
-        "title": "[속보] 코스피, 장 초반 매수 사이드카 발동…선물 5% 이상 급등",
-        "summary": "한국거래소가 유가증권시장(코스피)에서 매수 사이드카(Side Car)를 발동했다. 한국거래소는 15일 오전 9시 6분 2초를 기해 프로그램 매수호가의 효력을 일시 정지하는 매수 사이드카를 발동했다고 공시했다. 이번...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=581972",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "코스피"
-      },
-      {
-        "title": "[속보]코스피, 매수 사이드카 발동",
-        "summary": "",
-        "link": "http://www.fnnews.com/news/202606150906512233",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "코스피"
-      },
-      {
-        "title": "코스피, 장초반 4.80% 올라 '또 사이드카'…코스닥 1.47%↑(2보)",
-        "summary": "29를 기록 하고 있다. 코스닥은 전일 대비 15.14포인트(p)(1.47%) 상승한 1044.19를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 8.4원 내린 1511.4원을 기록했다.",
-        "link": "https://www.news1.kr/finance/general-stock/6197151",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "美·이란 종전 소식에…코스피 8,500선 출발",
-        "summary": "79에 거래되고 있습니다. 코스닥도 전 거래일보다 1.86% 오른 1,048.19에 출발했습니다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 8.4원 내린 1,511.4원에 개장했습니다. #코스피 #코스닥 #환율",
-        "link": "http://www.yonhapnewstv.co.kr/news/AKR20260615090748TZj",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "5월 서울 아파트 거래 20억 이상·6억 미만에 몰렸다",
-        "summary": "지난 5월 서울 아파트 거래가 20억 원 이상, 6억 원 미만 구간 중심으로 늘었다. 일부 임대차 수요가 매매시장으로 옮겨진 데다, 자금 조달이 가능한 가격대 중심으로 아파트 매매가 이루어진 것으로 풀이됐다....",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419922",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "서울 아파트"
-      },
-      {
-        "title": "\"대출 덜 돼도 괜찮다\"…강남권 20억 이상 거래가 절반 이상",
-        "summary": "서울 아파트 매매에서 20억원 이상 거래 비중이 10%에서 14%로 증가했다. 송파구는 이 기간 20억원 이상 거래 비중이 36%에서 55%로 늘어났다. 서초구와 강남구는 각각 54%, 58%에서 73%, 71%로 높아졌고 용산구는 48%에서 55%로...",
-        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02410806645482048",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "경제",
-        "query": "서울 아파트"
-      },
-      {
-        "title": "금값 20% 급락·비트코인 반토막, 시장 흔든 건 전쟁 아닌 금리",
-        "summary": "미국 우주탐사 기업 스페이스X의 나스닥 상장에 2500억달러가 넘는 투자 수요가 한꺼번에 몰리면서, 일부 자금이 그쪽으로 옮겨갔을 가능성도 함께 거론된다. 전문가들은 당분간 이런 변동성이 이어질 가능성에...",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=146123",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "경제",
-        "query": "나스닥"
-      },
-      {
-        "title": "코스피, 8500선 회복 출발…장 초반 5%대 급등",
-        "summary": "95%) 상승한 8526.12로 출발한 뒤 강세를 이어가고 있다. 같은 시간 코스닥지수는 전 거래일보다 23.30포인트(2.26%) 오른 1052.35를 나타내고 있다. 지수는 전장보다 19.14포인트(1.86%) 상승한 1048.19로 개장했다.",
-        "link": "https://www.dailian.co.kr/news/view/1655824/?sc=Naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "[개장시황] 코스피, 장초반 4%대 상승…8500대",
-        "summary": "코스닥도 올라 코스피가 15일 장 초반 4%대 오름폭을 보이며 8500선을 중심으로 움직이고 있다. 이날... 비슷한 시각, 코스닥 지수는 전 거래일 대비 14.85포인트(1.44%) 상승한 1043.90를 가리키고 있다....",
-        "link": "http://www.segyebiz.com/newsView/20260615503417?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "넥사다이내믹스, CB 발행 가처분 소송에 “적법 절차 준수…적극 대응”",
-        "summary": "이투데이=조남호 기자 | 신청인 강 모 씨, CB·사모사채 발행 및 더스타파트너 주식양수도 효력정지 신청 회사 측 “외부 기관 객관적 평가 거친 정상적 경영활동…주주 피해 막을 것” 코스닥 상장사 넥사다이내믹스가 최근...",
-        "link": "https://www.etoday.co.kr/news/view/2593503",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "[속보] 코스닥, 19.14포인트(1.86%) 오른 1048.19 출발",
-        "summary": "",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=844240",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
+        "title": "S&amp;P 500 Set for Best Day Since April as Oil Sinks: Markets Wrap",
+        "summary": "Stocks climbed around the world, joining gains in bonds as oil slumped after the US and Iran agreed to reopen the Strait of Hormuz, fueling hopes for an end to the conflict that has roiled markets.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-14/us-futures-climb-oil-falls-on-iran-peace-deal-markets-wrap",
+        "source": "feeds.bloomberg.com",
+        "pub_date": "2026-06-14T22:06:25",
+        "category": "경제"
       }
     ],
     "시사": [
       {
-        "title": "[정욱식 칼럼] 미국이 “북한 비핵화”에 진심일수록 한국도 위험해진다",
-        "summary": "근래 러시아의 우크라이나 침공, 미국·이스라엘의 이란 침공 등이 일어나면서 ‘전쟁 억제력이 없으면 당한다’는 인식이 세계화되고 있다. ‘자강’이 시대적 화두로 떠오르면서 한국은 그 선두에 서 있다. 미국과의...",
-        "link": "https://www.hani.co.kr/arti/politics/defense/1263533.html",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:08:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
+        "title": "Norwegian crown princess's son found guilty of two counts of rape",
+        "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+        "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T16:00:32",
+        "category": "시사"
       },
       {
-        "title": "[미·이란 종전] 원유 공급망 이미 다변화…당분간 수급 영향 크지 않아",
-        "summary": "기뢰 제거 등 안전 검증에 시일…5~7월 평년 대비 86% 원유 확보 \"해협 열려도 당장 원유 쏟아지진 않아…안전성 검증돼야 수급에 영향\" 신창용 임성호 김민지 기자 = 미국·이스라엘과 이란이 14일(현지시간) 종전 수순으로...",
-        "link": "https://www.yna.co.kr/view/AKR20260524045000003?input=1195m",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:07:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
+        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+        "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+        "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T14:26:28",
+        "category": "시사"
       },
       {
-        "title": "트럼프, 이란 합의 들고 G7 정상회의行",
-        "summary": "호르무즈 해협 재개방과 중동전 종식 합의가 정상회의의 핵심 의제로 부상한 가운데 우크라이나 전쟁과... ◇우크라이나 전쟁도 주요 의제 이란 전쟁이 최근 국제사회의 최대 관심사였지만 G7 정상들은 러시아의...",
-        "link": "https://www.g-enews.com/view.php?ud=2026061509000879359a1f309431_1",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:06:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
+        "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+        "summary": "Al-Qaqa Ibn Antar had been attempting to climb its walls without safety equipment when he fell in, local authorities say.",
+        "link": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T13:07:18",
+        "category": "시사"
       },
       {
-        "title": "[정치쇼] 박지원 \"정청래 연임 도전해도 당선되기 힘들 것…보수·진보...",
-        "summary": "거듭 말씀드리지만 이재명 정부의 최대의 개혁, 혁신은 총선승리와 정권재창출입니다. 만약에 총선승리를 못하고 정권재창출 못 하면 다 죽는다. 우리가 윤석열을 살아봤지 않느냐 이런 말을 하는 거예요. 그러니까...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008610015&plink=ORI&cooper=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:05:00+09:00",
-        "category": "시사",
-        "query": "총선"
+        "title": "Fifa seeks explanation over VAR official's hand gesture",
+        "summary": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday.",
+        "link": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T12:59:09",
+        "category": "시사"
       },
       {
-        "title": "이란 SNSC \"모든 전선서 즉각 영구 종전…美해상봉쇄 즉시 종료\"",
-        "summary": "미·이란 양측의 종전 관련 MOU 타결에 따라 지난 2월 말 미국·이스라엘의 선제공격으로 시작된 이란과의 전쟁은 100여일 만에 사실상 마무리 수순을 밟게 됐다. 다만 이란의 핵 프로그램과 제재 해제 등 남은 쟁점은...",
-        "link": "https://www.news1.kr/world/middleeast-africa/6197095",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:04:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
+        "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+        "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
+        "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T12:37:27",
+        "category": "시사"
       },
       {
-        "title": "중동발 먹구름 걷히자 금융시장 환호… 유가 급락에 코스피 급반등",
-        "summary": "106일간 이어지며 세계 경제에 부담을 줬던 미국·이스라엘과 이란 간 전쟁이 14일 사실상 종지부를 찍으면서 글로벌 금융시장이 일제히 환호하고 있다. 호르무즈 해협이 재개방되며 짓눌렸던 국제 유가가 하락세로...",
-        "link": "https://www.chosun.com/economy/economy_general/2026/06/15/UYIALC7XWVG4LF5AYE6UZHFZRI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:03:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+        "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T12:07:36",
+        "category": "시사"
       },
       {
-        "title": "컨선월드와이드, 신세계백화점 센텀시티점서 지구촌 이웃 위한 인도주의...",
-        "summary": "수단, 예멘, 가자, 우크라이나 등지에서 분쟁이 장기화되며 민간인 피해와 식량 위기, 강제 이주 등 인도주의 위기가 이어지고 있다. 여기에 기후위기와 재난까지 겹치며 극빈 지역 주민들의 생존과 회복을 위한 긴급구호의...",
-        "link": "http://www.segyebiz.com/newsView/20260612512690?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:02:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
+        "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+        "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+        "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T10:24:09",
+        "category": "시사"
       },
       {
-        "title": "호르무즈 개방해도 국내 기름값 하락엔 2~3주 소요",
-        "summary": "미국·이스라엘과 이란의 종전으로 호르무즈 해협이 조만간 개방됨에 따라 국내 유가가 얼마나 빠르게 내릴지에 관심이 쏠립니다. 국제 원유 시장의 병목 현상을 야기한 봉쇄가 풀린 만큼 추가 급등 압력이 누그러질 수...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008610063&plink=ORI&cooper=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:01:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
+        "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+        "summary": "Molemo \"Jub Jub\" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.",
+        "link": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T10:21:10",
+        "category": "시사"
       },
       {
-        "title": "[사설] 선거제도, 전면적 개혁이 필요하다!",
-        "summary": "20대 대선 당시 '소쿠리 투표' 논란을 비롯하여 2024년 22대 총선에서는 '경기 수원정 개표 결과 집계 오류'를 일으켰고, 지난 2025년 6.3 조기 대선에서는 '투표용지 외부 반출'이 일어나는 등 논란이 끊이지 않고 있다....",
-        "link": "https://www.newstnt.com/news/articleView.html?idxno=706296",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "대선"
+        "title": "China detains two leaders of influential underground church",
+        "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
+        "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T07:56:43",
+        "category": "시사"
       },
       {
-        "title": "컨선월드와이드, 극빈지역 주민 위한 나눔의 장 ‘인도주의 캠페인’ 성...",
-        "summary": "수단, 예멘, 가자, 우크라이나 등지에서 분쟁이 장기화되며 민간인 피해와 식량 위기, 강제 이주 등 인도주의 위기가 이어지고 있다. 여기에 기후위기와 재난까지 겹치며 극빈 지역 주민들의 생존과 회복을 위한 긴급구호의...",
-        "link": "https://www.etoday.co.kr/news/view/2593180",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
-      },
-      {
-        "title": "컨선월드와이드, 신세계 센텀시티점서 인도주의 캠페인 마쳐",
-        "summary": "컨선월드와이드는 팝업 부스를 운영하며 시민들을 대상으로 수단, 예멘, 가자, 우크라이나 등지의 인도주의 위기 배경을 설명하고 단체가 전개 중인 긴급구호 활동을 소개했다. 행사 기간 동안 약 3000명의 시민이 현장을...",
-        "link": "https://www.newspim.com/news/view/20260615000086",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
-      },
-      {
-        "title": "\"여기가 핵심 이빨이다\" 미군이 한반도 지도를 거꾸로 뒤집은 이유 [스...",
-        "summary": "지역의 분쟁을 지원하는 병참·군수 보급 기지(허브)이자 중국 저지를 위한 전략적 요충지로 역할 변화를... 지난 3월에 김태훈 기자가 단독 보도했던 사드 중동 반출 관련해서 관심이 뜨거웠습니다. 유사시에 어디로든...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008607720&plink=ORI&cooper=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "중동 분쟁"
-      },
-      {
-        "title": "울트라사이트, 메디아나와 AI 심장초음파 기반 심혈관 진단 플랫폼 구축...",
-        "summary": "요즈마그룹이 자사가 투자한 이스라엘 기업 울트라사이트가 한국 바이오 AI 기업 셀바스AI 계열사 메디아나와 손잡고 웨어러블 심전도(ECG/Electrocardiogram), 환자 감시장치(PMD/Patient Monitor Device), AI 심장초음파를...",
-        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403000",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "호르무즈 봉쇄로 버텼지만 장기화는 부담…이란 타협 배경은",
-        "summary": "'슈퍼 파워' 미국과 이스라엘의 막강한 군사력에 전쟁 초기 일방적으로 밀리던 이란은 호르무즈 해협 봉쇄... 미국과 이스라엘의 대대적인 공습에 최고지도자까지 잃고 충격에 빠졌던 이란은 세계 원유 수송의 대동맥인...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008610046&plink=ORI&cooper=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "주먹 들었지만 타협 갈망했던 트럼프…유가·여론 악화 부담",
-        "summary": "협상 타결이 임박한 이날 \"이란과의 평화 합의에 매우 가까워진 특별한 날\"이라며 레바논을 공습한 이스라엘을 강한 어조로 비난하는가 하면 \"모든 당사자는 자제해야 한다\"고 다급하게 촉구했습니다. 이처럼 전면적 공격...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008610054&plink=ORI&cooper=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "[본지-대교협 공동기획中] 생성형 AI 기반 수업 혁신 확산 속 \"인간 고유...",
-        "summary": "8%로 이스라엘(1.1%), 싱가포르(0.9%)에 이어 세계 3위를 기록했다. 그러나 2016~2023년 사이 한국의 AI 인재... 한국보다 종합순위가 낮은 인도, 독일, 캐나다, 이스라엘 등도 인재 영역에서는 한국을 앞서고 있어, 인재...",
-        "link": "https://news.unn.net/news/articleView.html?idxno=593399",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T09:00:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "李대통령 \"26년 전 6.15 선언, 희망의 불씨 지금도 살아있다\"",
-        "summary": "우크라이나 전쟁과 중동 전쟁을 언급하며 \"국제사회 곳곳에 분열과 대립의 그림자가 짙게 드리워지고 있다\"고 진단한 이 대통령은 \"한반도 역시 이러한 현실에서 결코 자유롭지 않다\"고 했다. 그러면서 \"평화와 번영을...",
-        "link": "https://www.pressian.com/pages/articles/2026061507592818353?utm_source=naver&utm_medium=search",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T08:59:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
-      },
-      {
-        "title": "미·이란, 개전 106일 만에 종전 합의…호르무즈 해협 봉쇄 해제",
-        "summary": "미국·이스라엘과 이란 사이의 전쟁이 개전 106일 만에 종전 합의로 마침표를 찍었다. 세계 에너지 물동량의... 이번 전쟁은 지난 2월 28일 미국과 이스라엘이 이란을 전격 기습 공습하면서 시작됐다. 이후 양측은 4월 8일...",
-        "link": "https://theopiniontimes.news/%eb%af%b8%c2%b7%ec%9d%b4%eb%9e%80-%ea%b0%9c%ec%a0%84-106%ec%9d%bc-%eb%a7%8c%ec%97%90-%ec%a2%85%ec%a0%84-%ed%95%a9%ec%9d%98%ed%98%b8%eb%a5%b4%eb%ac%b4%ec%a6%88-%ed%95%b4%ed%98%91-%eb%b4%89/",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T08:59:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "이재명 대통령 “한반도 평화의 희망 불씨 살아 있어”",
-        "summary": "이 대통령은 미사 후 연설에서 “오늘날 세계는 그 어느 때보다 깊은 갈등과 불확실성 속에 놓여 있다”며 “우크라이나 전쟁의 포성이 멈추지 않고 중동에서는 새로운 충돌이 이어지는 가운데 국제사회 곳곳에 분열과...",
-        "link": "https://www.catholictimes.org/article/20260615500009",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T08:58:00+09:00",
-        "category": "시사",
-        "query": "우크라이나"
-      },
-      {
-        "title": "다카이치, 영국 총리 관저에서 ‘일본 철의 여인’ 면모 과시",
-        "summary": "이후 1979년 총선에서 보수당이 노동당을 이기고 집권당이 되자 영국 역사상 여성으로는 처음 총리에 올랐다. 14일(현지시간) 다카이치 사나에 일본 총리(왼쪽)와 키어 스타머 영국 총리가 런던 다우닝가 10번지 총리...",
-        "link": "https://www.segye.com/newsView/20260615503040?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-06-15T08:57:00+09:00",
-        "category": "시사",
-        "query": "총선"
+        "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+        "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+        "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+        "source": "feeds.bbci.co.uk",
+        "pub_date": "2026-06-15T06:47:23",
+        "category": "시사"
       }
     ]
   }
