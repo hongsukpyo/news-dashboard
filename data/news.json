@@ -1,548 +1,548 @@
 {
-  "generated_at": "2026-10-26T09:59:55.480455+09:00",
+  "generated_at": "2026-10-27T02:06:54.525414+09:00",
   "categories": {
     "AI/테크": [
       {
-        "title": "앤트로픽 클로드, 인간 승인 없이 美 선거 데이터 접근…AI 통제 논란 확...",
-        "summary": "[사진=구글 제미나이(Google Gemini) 활용 이미지]  미국 인공지능(AI) 기업 앤트로픽의 '클로드'가 사람의 승인 없이 주정부의 유료 선거 데이터에 접근한 사실이 드러났다. AI가 정해진 접근 제한을 스스로 우회해 정보를...",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=558116",
+        "title": "美 AI 기업 앤트로픽, 나스닥 IPO 신청…역대 최대 규모 전망",
+        "summary": "이번 상장은 급성장하는 생성형 AI 산업에 대한 글로벌 투자자들의 실제 수요와 평가를 가늠할 수 있는 시험대가 될 전망이다. 시장에서는 이번 IPO가 역대 최대 규모의 증시 데뷔가 될 것이란 관측이 나온다....",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=208374",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
-      },
-      {
-        "title": "AI 관리기준 세우고 업무도 자동화… 기업들 활용 범위 넓혀",
-        "summary": "한국앤컴퍼니그룹은 구글 클라우드의 기업용 AI 플랫폼 '제미나이 엔터프라이즈'도 도입했다. 임직원이 업무 성격에 따라 AI 모델을 선택하고 활용할 수 있도록 관련 교육을 운영 중이다. LG유플러스는 IPTV 서비스 'U+tv...",
-        "link": "https://www.pressman.kr/news/articleView.html?idxno=104156",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "AI/테크",
-        "query": "구글 AI"
-      },
-      {
-        "title": "폐쇄망에서도 AI로 테스트 설계…플래티어 ‘엑스젠 TMS’ 출시",
-        "summary": "기업은 사내 대규모언어모델(LLM), 오픈소스 모델, 상용 API 가운데 운영 환경에 맞는 AI 엔진을 선택할 수 있다. 폐쇄망에서는 외부 데이터 전송 없이 AI 기반 테스트 관리 기능을 이용하도록 설계했다. AI 모델을...",
-        "link": "https://www.ddaily.co.kr/page/view/2026102609444618145",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
-      },
-      {
-        "title": "G마켓, 3분기 연속 거래액↑...수출·배송·콘텐츠로 성장세 잇는다",
-        "summary": "지난 9월 AI 기반 광고 서비스를 선보인 데 이어 G마켓은 내년 초 대규모언어모델(LLM) 기반 AI 챗봇을 정식 도입할 예정이다. 구매자의 기본 문의는 AI가 24시간 응대하고 직접 상담이 필요한 경우 셀러에게 연결한다. 이어...",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=267753",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
-      },
-      {
-        "title": "[기획] 소상공인 지원 1편 \"소규모 서비스업\", AI를 활용해 가게의 온기...",
-        "summary": "그 재료를 찾아 문장으로 정리하는 데 생성형 인공지능을 활용할 수 있다. 처음부터 “손님이 많이 오는 홍보 글을 써줘”라고 부탁하면 어느 가게에나 붙일 수 있는 문구가 나오기 쉽다. AI에게도 가게를 소개하는 시간이...",
-        "link": "https://www.dailyt.co.kr/newsView/dlt202610260007",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T02:02:00+09:00",
         "category": "AI/테크",
         "query": "생성형 AI"
       },
       {
-        "title": "SKT 'AI 거버넌스 리포트' 발간…신뢰 경영 강화",
-        "summary": "담은 'AI 거버넌스 리포트'를 26일 발간했다. SK텔레콤은 지난 2021년 사람 중심의 'AI 추구 가치'를 정립하고 2024년 3월 AI 거버넌스 원칙인 'T.H.E. AI'를 공개하며 'AI 트러스트 경영'을 지속 추진해 왔다. 원칙을 세운 뒤...",
-        "link": "https://news.tf.co.kr/read/economy/2380535.htm",
+        "title": "테슬라, 전기차 판매 넘어 ‘자율주행 구독’ 수익 확대 승부",
+        "summary": "테슬라의 주요 주주 중 한 명도 스페이스X의 AI 기술 혁신을 테슬라가 활용할 수 있다는 점에서 합병을 지지한다고 밝혔다. 그러나 합병이 실제로 성사되려면 주주와 규제당국의 승인을 받아야 한다. 미국 투자은행...",
+        "link": "https://www.g-enews.com/view.php?ud=2026102620585557199a1f309431_1",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:57:00+09:00",
+        "pub_date": "2026-10-27T02:00:00+09:00",
         "category": "AI/테크",
-        "query": "AI 거버넌스"
+        "query": "AI 규제"
       },
       {
-        "title": "[창간22주년 특집: 보험을 넘어 미래로]① 신한라이프, AI 설계 35% 빨라...",
-        "summary": "신한라이프는 올해 초 생성형 AI 에이전트를 활용한 상품정보관리시스템 입력 자동화 프로젝트를 완료했다. 보험상품의 사업방법서와 판매예규 등에서 필요한 정보를 추출해 시스템에 반영하는 방식으로, 담당자가...",
-        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=100830",
+        "title": "앤트로픽, 다음 달 나스닥 상장 추진… ‘AI기업 IPO’ 시험대",
+        "summary": "생성형 AI 시장의 대표 주자 중 하나인 앤트로픽의 상장이 현실화하면 AI 산업의 성장성과 기업가치에 대한 투자자들의 평가를 확인할 중요한 계기가 될 전망이다. 로이터통신 등 외신은 26일(현지시간) 앤트로픽이...",
+        "link": "https://www.dt.co.kr/article/12091408?ref=naver",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:57:00+09:00",
+        "pub_date": "2026-10-27T01:47:00+09:00",
         "category": "AI/테크",
         "query": "생성형 AI"
       },
       {
-        "title": "오픈AI, 국내 첫 '모델 마스터즈' 개최…스타트업 11곳 AI 서비스 선보여",
-        "summary": "[사진: 오픈AI] 오픈AI가 국내 스타트업의 AI 서비스 개발을 지원하는 '오픈AI 모델 마스터즈(OpenAI Model Masters)'를 처음 개최했다고 26일 밝혔다. 지난 23일 오픈AI 서울사무소에서 열린 이번 행사에는 스타트업 11곳이...",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709811",
+        "title": "Anthropic’s IPO Filing Puts Backers in Focus as Key Terms Remain Open",
+        "summary": "Anthropic’s public IPO filing puts its financing and cloud ties in view as the Claude... Anthropic said Monday, Oct. 26, that it had filed a public Form S-1 with the U.S. Securities and...",
+        "link": "https://econotimes.com/Anthropic-s-IPO-Filing-Puts-Backers-in-Focus-as-Key-Terms-Remain-Open-1763802",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
+        "pub_date": "2026-10-27T01:40:00+09:00",
         "category": "AI/테크",
-        "query": "OpenAI"
+        "query": "Anthropic"
       },
       {
-        "title": "검색해도 기사 안 누른다…구글 AI에 트래픽 뺏긴 언론사들",
-        "summary": "구글의 AI 검색 기능이 웹페이지 방문 없이 답을 제공하면서 언론사 등의 유입 및 수익 기반을 위협하고 있다. [사진: 셔터스톡] 구글의 인공지능(AI) 검색 기능이 확대되면서 온라인 출판업계의 검색 유입이 줄고 있다....",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709831",
+        "title": "우리엔, 동물병원 진료 전 과정 잇는 AI 서비스 'weVoice 2.0' 선봬",
+        "summary": "생성형 AI는 진료 대화를 분석해 보호자가 설명한 증상, 검사에서 확인한 정보, 수의사의 평가와 치료 계획 등을 구분하고 SOAP 형식의 진료 기록으로 자동 작성한다. SOAP는 주관적 정보(Subjective), 객관적 정보(Objective)...",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=211831",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
+        "pub_date": "2026-10-27T01:40:00+09:00",
+        "category": "AI/테크",
+        "query": "생성형 AI"
+      },
+      {
+        "title": "Anthropic Filing Shows $8.945 Billion in Compute and Infrastructure Expen...",
+        "summary": "Anthropic’s public IPO filing puts its $8.945 billion first-half compute and infrastructure... Anthropic filed a public Form S-1 with the U.S. Securities and Exchange Commission (SEC) on Monday...",
+        "link": "https://econotimes.com/Anthropic-Filing-Shows-8-945-Billion-in-Compute-and-Infrastructure-Expense-1763799",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:36:00+09:00",
+        "category": "AI/테크",
+        "query": "Anthropic"
+      },
+      {
+        "title": "[분석] 대통령이 직접 농어민 의견을 경청한, 농어민과의 대화",
+        "summary": "축산, 과수, 채소, 임업 등 각 품목이 마주한 구조적 모순과 규제 장벽에 대해 정부는 명확한 해법을 제시하지... 아울러 AI(조류인플루엔자) 등 국가 재난형 가축 질병에 대해 살처분 보상금이 과거 70% 수준에서 50% 이하로...",
+        "link": "https://www.farminsight.net/news/articleView.html?idxno=17096",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:30:00+09:00",
+        "category": "AI/테크",
+        "query": "AI 규제"
+      },
+      {
+        "title": "스페이스X, 아폴로와 GPU 금융리스 계약…400억달러 규모",
+        "summary": "AI) 시스템 구동에 사용되는 그래픽처리장치(GPU)를 확보하기 위해 아폴로글로벌매니지먼트와 400억달러 규모의 금융리스 계약을 체결했다고 밝혔다. 26일(현지시간) 블룸버그통신에 따르면 이날 스페이스X는 규제...",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=676774",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:29:00+09:00",
+        "category": "AI/테크",
+        "query": "AI 규제"
+      },
+      {
+        "title": "[한경에세이] 보이지 않던 게 보이기 시작했다",
+        "summary": "구글 딥마인드의 ‘알파폴드’는 반세기 가까이 풀리지 않던 이 문제에 AI로 답을 내놓았다. 아미노산 순서만으로 3차원 구조를 예측해낸 것이다. 2022년에는 알려진 거의 모든 단백질의 예측 구조 2억 개가 공개됐다....",
+        "link": "https://www.hankyung.com/article/2026102659541",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:28:00+09:00",
         "category": "AI/테크",
         "query": "구글 AI"
       },
       {
-        "title": "SKT, 'AI 거버넌스 리포트' 발간... 사내 AI 에이전트 관리체계 인증",
-        "summary": "SK텔레콤이 AI 거버넌스 원칙과 책임체계, 실행 방안 및 주요 성과를 담은 'AI 거버넌스 리포트'를 발간했다고 26일 밝혔다. SKT는 AI 기술의 안전성을 높이고 고객과 사회가 안심하고 서비스를 이용할 수 있도록 신뢰...",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138589",
+        "title": "아리랑국제방송, ‘AI 챔피언’ 인증자 5명 배출",
+        "summary": "인증은 그린(Green), 블루(Blue), 블랙(Black)의3개 등급으로 구분되며, 이번에 아리랑국제방송에서는AI 활용·융합 역량을 갖춘 그린 등급1명과 생성형AI 활용, 데이터 분석, 서비스 구현 등 실무역량을 인정받은 블루...",
+        "link": "https://sports.khan.co.kr/article/202610270127003?pt=nv",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 거버넌스"
-      },
-      {
-        "title": "SK텔레콤, AI 거버넌스 보고서 발간… 에이전트 관리체계까지 강화",
-        "summary": "SKT 구성원들이 'AI 거버넌스 리포트'를 소개하고 있다/ SKT 제공 SK텔레콤이 인공지능(AI) 기술의 책임 있는 활용을 위한 관리체계와 운영 성과를 공개하고 신뢰 기반의 AI 경영을 강화한다. AI 서비스뿐 아니라 스스로...",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158520",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 거버넌스"
-      },
-      {
-        "title": "경북도, 3분기 도정 우수부서 4개 선정…투자·관광·돌봄·재난대응 성...",
-        "summary": "포항 AI 전용 데이터센터(제9호)와 안동 산림자원수집센터(제11호)가 선정되는 성과를 냈다. 로봇·양자 소부장 파운드리 업무협약으로 '4대 파운드리 프로젝트' 추진 기반을 마련하고, 기업규제 현장지원단을 통한 기업...",
-        "link": "http://www.metroseoul.co.kr/article/20261026500020",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 규제"
-      },
-      {
-        "title": "중국, 미국의 對중국 투자 제한 확대안 반발…바이오 기술 규제에 갈등...",
-        "summary": "앞서 미 재무부는 지난 22일(현지시간) AI와 반도체 등에 이어 첨단 생명공학(바이오) 분야를 대중국 해외투자 규제 대상에 새롭게 포함하는 개정안을 발표한 바 있다. 블룸버그는 \"이번 조치는 첨단 기술 주도권을 둘러싸고...",
-        "link": "https://www.theguru.co.kr/news/article.html?no=108753",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 규제"
-      },
-      {
-        "title": "오케스트로, 동일 GPU로 AI 처리량 62.8% 높이는 추론 최적화 전략 공개",
-        "summary": "콘체르토 AI는 LLM의 입력 처리(Prefill)와 답변 생성(Decode) 단계를 분리해 GPU 자원 간 경합을 줄이고 추론 성능을 최적화하는 플랫폼이다. 성능 검증 결과 기존 모델 서빙 방식과 동일한 GPU 환경에서 고부하 시...",
-        "link": "https://www.hellot.net/news/article.html?no=115766",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
-      },
-      {
-        "title": "G마켓, 3분기 연속 거래액 성장...글로벌·배송·콘텐츠 신규 서비스도",
-        "summary": "고도화, 셀러 라이브방송 진행 등 G마켓 자체 콘텐츠 경쟁력도 강화한다. 내년 초에는 대규모언어모델(LLM) 기반 AI 챗봇 도입에 이어 내년 하반기 상품 탐색부터 구매까지 AI를 활용하는 ‘AI 쇼핑 에이전트’도 선보인다.",
-        "link": "https://www.etoday.co.kr/news/view/2639960",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
-      },
-      {
-        "title": "G마켓 거래액 3개 분기 연속 성장…'수출·배송·콘텐츠' 3축 성장 '박차...",
-        "summary": "그 일환으로 지난 9월 광고 솔루션을 제공하는 AI 기반 광고 서비스를 오픈한 데 이어 내년 초 대규모언어모델(LLM) 기반 AI 챗봇도 정식 도입한다. 내년 하반기에는 상품 탐색부터 구매까지 AI를 활용하는 'AI 쇼핑...",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=215799",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "AI/테크",
-        "query": "LLM 모델"
-      },
-      {
-        "title": "현대모비스, 임직원 아이디어·특허 성과 공유 행사 개최",
-        "summary": "안내하는 '생성형 AI 기반 AR 교통법규 안내 시스템'이 선정됐다. 이날 이규석 현대모비스 사장은 수상자들을 시상하고 임직원들을 격려했다. 우수 특허와 직무발명, 최우수 디자이너, 지식재산 공로상 등 연구개발 및...",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138594",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
+        "pub_date": "2026-10-27T01:28:00+09:00",
         "category": "AI/테크",
         "query": "생성형 AI"
       },
       {
-        "title": "日 \"생성형 AI 학습 방법·데이터 공개하라\"",
-        "summary": "관한 AI 이용자의 문의에 대한 대응 등 3가지다. 이 원칙은 강제성이나 법적 구속력이 없는 자율 가이드라인이다. 내각부는 강제 규제 대신 기본 원칙을 수용한 사업자 명단과 함께 각 기업의 지침 적용 상황 등이 적힌...",
-        "link": "https://www.yna.co.kr/view/AKR20261026048500009?input=1195m",
+        "title": "MS, 직원 6만 명에 '자발적 퇴직' 제안…AI 시대 조직 재편",
+        "summary": "hardcore) 일하거나 퇴직금을 받고 나가라\"는 선택지를 줬었다. 올해 초에는 구글의 한 임원이 AI에 \"올인\"하지 않는 직원은 희망퇴직 패키지를 받을 수 있다고 말한 것으로 전해졌다. 마이크로소프트 로고 [사진=블룸버그]",
+        "link": "https://www.newspim.com/news/view/20261027000003",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:55:00+09:00",
+        "pub_date": "2026-10-27T01:20:00+09:00",
+        "category": "AI/테크",
+        "query": "구글 AI"
+      },
+      {
+        "title": "U.S. Stocks Rise as Anthropic Files IPO Registration Statement",
+        "summary": "considered Anthropic PBC’s proposed offering, while oil retreated from recent highs, Reuters... Anthropic said it filed a Form S-1 registration statement with the Securities and Exchange...",
+        "link": "https://econotimes.com/U-S-Stocks-Rise-as-Anthropic-Files-IPO-Registration-Statement-1763780",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:14:00+09:00",
+        "category": "AI/테크",
+        "query": "Anthropic"
+      },
+      {
+        "title": "앤스로픽, 나스닥 상장 위해 IPO 신청…사상 최대 규모 기록할까",
+        "summary": "생성형 인공지능(AI) 클로드를 만든 앤스로픽이 기업공개(IPO) 닻을 올렸다. 이번 상장을 계기로 AI 산업에 대한 투자 수요와 시장의 가치평가를 가늠할 시험대가 될 전망이다. 26일(현지시간) 파이낸셜타임스(FT)...",
+        "link": "https://view.asiae.co.kr/article/2026102700584547415",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:58:00+09:00",
+        "category": "AI/테크",
+        "query": "생성형 AI"
+      },
+      {
+        "title": "AI '클로드' 개발사 앤트로픽, IPO 절차 돌입… 역대 최대 규모 가능성",
+        "summary": "이번 상장은 생성형 AI 산업의 성장 잠재력에 대한 글로벌 투자자들의 평가를 가늠하도록 하는 시험대가 될 전망이다. 매출 성장 폭은 가파르다. 증권신고서를 보면 앤트로픽은 올해 상반기 163억 달러(약 22조 원)의...",
+        "link": "https://www.hankookilbo.com/news/article/A2026102700510005629?did=NA",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:57:00+09:00",
+        "category": "AI/테크",
+        "query": "생성형 AI"
+      },
+      {
+        "title": "일본 사이버공격 급증에 정부 긴급대책 착수…기업들 고객 피해보상 확...",
+        "summary": "과거에는 일본어가 해외 공격자에게 일정 부분 진입장벽으로 작용했지만, 생성형 AI의 발전으로 이러한 장벽도 낮아지고 있다는 지적이다. 이번 일본 정부의 긴급대책은 사고 발생 이후 복구와 피해보상에 집중하던...",
+        "link": "https://www.dailysecu.com/news/articleView.html?idxno=209083",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:52:00+09:00",
+        "category": "AI/테크",
+        "query": "생성형 AI"
+      },
+      {
+        "title": "‘AI 해킹’ 독학해 정보 820만건 빼돌린 일당",
+        "summary": "경찰은 “생성형 AI를 악용한 대규모 개인 정보 해킹을 검거한 첫 사례”라고 했다. 경찰 조사 결과, A씨는 IT를 전공하지는 않았지만 블로그 등을 통해 해킹 기술을 독학했다. 2019~2022년에는 보안 업체에서 모의 해킹...",
+        "link": "https://www.chosun.com/national/incident/2026/10/27/I67NY6UIW5GDFI7YKZMTTOO5AU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:46:00+09:00",
+        "category": "AI/테크",
+        "query": "생성형 AI"
+      },
+      {
+        "title": "820만 건 정보 유출‥잡고보니 \"AI 해킹 독학\"",
+        "summary": "최근 금융권 해킹에도 쓰였던 AI '아르텍스'로 허점을 알아내고, 생성형 AI에게 공격 방법을 찾아내도록 시켰습니다. IT와 무관한 예체능 전공자였는데, 유튜브와 블로그에서 기술을 배웠습니다. 1년 넘는 범행 기간 중...",
+        "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6860878_36989.html",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:40:00+09:00",
+        "category": "AI/테크",
+        "query": "생성형 AI"
+      },
+      {
+        "title": "고객이 설계부터 관여… 맞춤형 HBM 시대로",
+        "summary": "엔비디아·구글 같은 AI 칩 개발사가 HBM 내부 설계에 관여하고, 메모리 기업들도 데이터를 저장하는 D램을 넘어 고객 전용 제어 회로 등 로직 설계에 참여하는 식이다. 기업들이 각자 만든 반도체를 연결하는 데서 나아가...",
+        "link": "https://www.chosun.com/economy/tech_it/2026/10/27/DZGSFMMRO5FYVDRGJJFGTFUDJU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:35:00+09:00",
+        "category": "AI/테크",
+        "query": "구글 AI"
+      },
+      {
+        "title": "[단신]하나자산운용, 美 AI테크플랫폼 ETF 상장 外",
+        "summary": "인공지능(AI) 플랫폼·보안·데이터관리·클라우드·인프라 등 5개 영역에서 핵심 기업을 선별한다. 기초 지수에는 지난달 30일 기준으로 알파벳 A(구글), 마이크로소프트, 아마존, 팔란티어 등이 편입돼 있다....",
+        "link": "https://www.donga.com/news/Economy/article/all/20261026/134911403/2",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:32:00+09:00",
+        "category": "AI/테크",
+        "query": "구글 AI"
+      },
+      {
+        "title": "33년 경제 침체 탈출 나선 대구… 기업 투자·창업 키운다",
+        "summary": "추경호 시장, 취임 후 비상경제대책회의 가동 산업단지 입주 규제 완화해 기업 활력 높여 2030년까지 미래... 빅웨이브AI 이희준 대표는 “지원 방안이 현장에서 피부로 와닿을 것 같다”고 전했다. 이달 초 열린 6차...",
+        "link": "https://www.chosun.com/national/regional/2026/10/27/QM5HXCQC35FQJF4CGJFHGNJGOA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:31:00+09:00",
         "category": "AI/테크",
         "query": "AI 규제"
-      },
-      {
-        "title": "우주항공의 꿈, 화성시가 쏜다...민·관·학·연 '화성형 클러스터' 추진",
-        "summary": "강력한 거버넌스가 될 것”이라며 “그간 치밀하게 준비해 온 만큼 반도체와 모빌리티, AI에 이어 우주항공 분야에서도 화성특례시가 대한민국을 선도하는 압도적인 도시 경쟁력을 증명해 보이겠다”고 밝혔다. 이어...",
-        "link": "https://www.g-enews.com/view.php?ud=2026102608545566128fbfc802b3_1",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:54:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 거버넌스"
-      },
-      {
-        "title": "SKT, AI 거버넌스 리포트 발간…사내 AI 에이전트 관리체계 공개",
-        "summary": "라이센스뉴스 = 백성요 기자 | SK텔레콤이 AI 서비스와 사내 업무에 적용해 온 AI 거버넌스 체계와 실행 성과를 공개했다. 자율적으로 판단하고 업무를 수행하는 AI 에이전트의 활용이 늘어나는 환경에 맞춰 관리...",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210227",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:54:00+09:00",
-        "category": "AI/테크",
-        "query": "AI 거버넌스"
       }
     ],
     "경제": [
       {
-        "title": "이준기, 부동산 대박?…11억에 산 아파트, 현 시세가 무려",
-        "summary": "배우 이준기(44)가 서울 광진구의 고급 주상복합 아파트를 장기간 보유하며 약 15억원의 시세차익을 거둔 것으로 알려져 눈길을 끈다. 26일 유튜브채널 ‘원더플래닛’에 따르면, 이준기는 서울 광진구 자양동에...",
-        "link": "https://biz.heraldcorp.com/article/10914460?ref=naver",
+        "title": "美 AI 기업 앤트로픽, 나스닥 IPO 신청…역대 최대 규모 전망",
+        "summary": "연합뉴스는 로이터 통신 등 보도를 인용, AI 모델 '클로드'의 개발사인 앤트로픽은 다음 달에 티커명 'ANT'로 나스닥에 상장할 계획이라고 전했다. 이번 상장은 급성장하는 생성형 AI 산업에 대한 글로벌 투자자들의...",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=208374",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:59:00+09:00",
+        "pub_date": "2026-10-27T02:02:00+09:00",
+        "category": "경제",
+        "query": "나스닥"
+      },
+      {
+        "title": "같은 정책, 다른 부동산 심리[청계광장/박원갑]",
+        "summary": "이런 주관적 해석은 부동산시장에서도 빈번하게 나타난다. 가령 특정 지역을 규제지역으로 지정하면 시장은 오히려 '투자 유망지역' 인증으로 받아들이곤 한다. 대출 규제 발표도 자주 굴절된다. 누군가는 집값이 잡힐...",
+        "link": "https://www.mt.co.kr/opinion/2026/10/27/2026102615175978693",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T02:00:00+09:00",
+        "category": "경제",
+        "query": "부동산 시장"
+      },
+      {
+        "title": "앤트로픽, 다음 달 나스닥 상장 추진… ‘AI기업 IPO’ 시험대",
+        "summary": "앤트로픽은 대화형 AI 모델 ‘클로드(Claude)’를 개발한 기업으로, 다음 달 나스닥 상장을 추진하고 있다. 상장 종목 코드는 ‘ANT’로 알려졌다. 이번 상장은 생성형 AI 기업에 대한 시장의 투자 열기를 가늠할 주요...",
+        "link": "https://www.dt.co.kr/article/12091408?ref=naver",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:47:00+09:00",
+        "category": "경제",
+        "query": "나스닥"
+      },
+      {
+        "title": "\"증서 빠질 때 RP는 유지\"…투자자금 흐름 갈렸다",
+        "summary": "사진=미국 나스닥  국내 증시가 급락하면서 투자자예탁금이 한 달도 채 되지 않아 16조원 가까이 감소한 가운데 증권사의 환매조건부채권(RP) 잔고는 107조원대를 유지하고 있다. 증시 대기자금이 빠르게 줄어드는...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=149993",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:28:00+09:00",
+        "category": "경제",
+        "query": "나스닥"
+      },
+      {
+        "title": "[김병철 시선①] 이상일 시장의 동백신봉선 구상…용인 철도, 연결해야...",
+        "summary": "용인의 여러 지역을 연결하면서 서울과 수도권으로 향하는 철도 접근성을 함께 높이겠다는 것이다. 시가... 주민 의견을 반영한 아파트 진입로·교차로 존치와 설계 변경, 사업비 분담계획, 착공·준공 목표를 중심으로...",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=719773",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:28:00+09:00",
         "category": "경제",
         "query": "서울 아파트"
       },
       {
-        "title": "코스피, 하락 출발 후 낙폭 축소…美 기술주 급락에도 '반등 시도'",
-        "summary": "반면 스탠더드앤드푸어스(S&P)500지수는 93.74포인트(1.21%) 내린 7663.43에, 기술주 중심의 나스닥종합지수는 694.00포인트(2.60%) 급락한 2만6008.86에 각각 마감했다. 나스닥지수의 하락 폭은 지난 6월 이후 가장 컸다....",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88166",
+        "title": "[GAM] AI 투자 지형이 바뀐다 ② PHP 취약점 사태 속 사이버보안주는 랠...",
+        "summary": "이날 '앰플리파이 사이버보안 ETF(HACK)'는 3.2%, '퍼스트 트러스트 나스닥 사이버보안 ETF(CIBR)'는 2.7% 올랐고... '아이셰어즈 확장 기술-소프트웨어 섹터 ETF'는 6%, '퍼스트 트러스트 나스닥 사이버보안 ETF'는 7% 상승한...",
+        "link": "https://www.newspim.com/news/view/20261027000005",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T01:24:00+09:00",
         "category": "경제",
         "query": "나스닥"
       },
       {
-        "title": "브로드컴은 왜 자기 주식의 토큰화를 거부했나 [디센터 기고]",
-        "summary": "나스닥 역시 자사 주식의 토큰화 상장을 거부했다. 시장에서는 이를 토큰화 확산의 강력한 걸림돌로 평가했다. 주요 투자은행들은 상장사 다수가 토큰화 도입에 극히 미온적이라고 분석했다. 시가총액 1조 6000억 달러...",
-        "link": "https://www.decenter.kr/article/20105993?ref=naverdc",
+        "title": "[GAM] AI 투자 지형이 바뀐다 ① AI 지출 회의론에 반도체·하드웨어주 ...",
+        "summary": "메타 로고 [사진=블룸버그통신] 같은 날 램리서치의 분기 실적도 투자자들을 실망시키면서 기술주 중심의 나스닥종합지수는 6월 이후 최대 일일 낙폭을 기록했다. 메타가 데이터센터 구축에 천문학적 자금을...",
+        "link": "https://www.newspim.com/news/view/20261027000004",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T01:23:00+09:00",
         "category": "경제",
         "query": "나스닥"
       },
       {
-        "title": "한양대 공대 '자랑스러운 한양공대인 상'에 황규빈 젤라인 회장과 김태...",
-        "summary": "미국 포드자동차 연구원으로 첫발을 뗀 그는 실리콘밸리에서 텔레비디오를 창업해 한인 기업 최초로 미국 나스닥 상장을 이끌며 한국인 공학도의 역량을 세계에 알렸다. 실리콘밸리 한미상공회의소 소장과 미국 대통령...",
-        "link": "https://www.veritas-a.com/news/articleView.html?idxno=633406",
+        "title": "‘흐르는 여정’ 저스틴 민 “정체성 찾아 한국 온 인물, 나 같았죠”",
+        "summary": "최근 서울 종로구 한 카페에서 만난 저스틴 민은 “여러 한국 작품의 시나리오를 읽어봤지만 마음에 와닿는... ‘흐르는 여정’은 남편과 사별한 뒤 생전 남편이 소중히 여기던 그랜드 피아노를 싣고 작은 아파트로 이사한...",
+        "link": "https://www.kmib.co.kr/article/20261026502082",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T01:16:00+09:00",
         "category": "경제",
-        "query": "나스닥"
+        "query": "서울 아파트"
       },
       {
-        "title": "LS증권 \"코스피 매도 정점 근접…기술적 반등 관점 대응\"",
-        "summary": "실제로 미국 상품선물거래위원회(CFTC)의 S&P500 선물 투기적 포지션에서 전체 미결제약정 대비 순매도 포지션 비중은 7% 수준까지 확대됐다. 정 연구원은 11월부터 재개될 미국 기업들의 자사주 매입에도 주목했다. 그는...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441055",
+        "title": "美서 사라지는 SK하이닉스 2배 ETF…출시 석 달 만에 청산",
+        "summary": "미국 증시에 상장된 SK하이닉스 연계 레버리지 상장지수펀드(ETF) 2종이 출시 3개월여 만에 청산된다. 기초자산인 SK하이닉스 미국예탁증서(ADR)는 상승했지만, 상승과 하락에 각각 투자하는 두 상품은 모두 손실을...",
+        "link": "https://www.joongang.co.kr/article/25473050",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T01:03:00+09:00",
+        "category": "경제",
+        "query": "미국 증시"
+      },
+      {
+        "title": "국제유가, 이란 재공격 우려 속 114달러대로 하락",
+        "summary": "미국 스탠더드앤드푸어스(S&P)500지수 선물은 0.1% 상승해 뉴욕 증시가 보합권에서 출발할 가능성을 나타냈다. 유럽의 스톡스600지수는 오전 늦게까지 0.4% 올랐다. FT는 국제유가가 최근 고점에서 하락했지만 중동 지역의...",
+        "link": "https://www.g-enews.com/view.php?ud=2026102620472149159a1f309431_1",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:02:00+09:00",
         "category": "경제",
         "query": "S&P 500"
       },
       {
-        "title": "아폴로 \"AI, 非기술기업엔 재무적 성과 전혀 안 줘\"",
-        "summary": "반면 스탠더드앤드푸어스(S&P) 500지수에 포함된 나머지 기업들의 직원 1인당 매출은 지난 7년간 55만 달러 수준에 머물렀다. 이익률에서도 비슷한 흐름이 나타났다. 기술기업의 이익률은 2022년 이후 급등했지만, 나머지...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441056",
+        "title": "앤스로픽, 나스닥 상장 위해 IPO 신청…사상 최대 규모 기록할까",
+        "summary": "생성형 인공지능(AI) 클로드를 만든 앤스로픽이 기업공개(IPO) 닻을 올렸다. 이번 상장을 계기로 AI 산업에 대한 투자 수요와 시장의 가치평가를 가늠할 시험대가 될 전망이다. 26일(현지시간) 파이낸셜타임스(FT)...",
+        "link": "https://view.asiae.co.kr/article/2026102700584547415",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "경제",
-        "query": "S&P 500"
-      },
-      {
-        "title": "[개장시황] 코스피, 빅테크 실적 앞두고 5540선 등락",
-        "summary": "|중앙이코노미뉴스 정재혁 기자|코스피가 글로벌 빅테크 실적 발표를 앞두고 1% 가까이 하락 출발한 뒤 낙폭을 줄이며 장 초반 5540선 보합권에서 등락하고 있다. [사진=연합뉴스]  코스피가 글로벌 빅테크 실적...",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=558113",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "경제",
-        "query": "코스피"
-      },
-      {
-        "title": "<빅터뉴스 주가 예측>코스피 시가총액 상위 15선_10월 26일",
-        "summary": "종목 선정은 우선 시범적으로 국내 유가증권시장(코스피) 시가총액 상위 15개 종목을 추려 주간 예상고가와... ▲빅터뉴스 주간 코스피 15선 -삼성전자, SK하이닉스, SK스퀘어, 삼성전기, LG에너지솔루션, 현대차...",
-        "link": "https://www.bigtanews.co.kr/article/view/big202610260003",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "경제",
-        "query": "코스피"
-      },
-      {
-        "title": "전주시 조지훈시장, 산단 중견기업과 전주 경제 대도약 이끈다",
-        "summary": "셰플러코리아 전주공장은 전 세계에서 유일하게 전기차용 3열 베어링을 생산하고 있으며, 창해에탄올은 코스닥 우량기업부에 지정됐다. HS효성첨단소재는 초고강도 탄소섬유를 앞세워 미국 우주항공 시장 공략에 나섰고...",
-        "link": "http://www.metroseoul.co.kr/article/20261026500063",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "'월급' 보다 '집'…자산 격차 최대로 벌어졌다",
-        "summary": "특히 최근 서울 고가 아파트를 중심으로 가격이 가파르게 오르면서 5분위 거주 주택 가격이 더욱 올랐을 공산이 크고, 이에 따라 거주 주택·자산 격차가 벌어졌을 가능성이 높아 보입니다. 거주 주택 격차만 해도...",
-        "link": "https://biz.sbs.co.kr/article_hub/20000342055?division=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "경제",
-        "query": "서울 아파트"
-      },
-      {
-        "title": "[신윤우의 외환분석] 중동 들썩여도 묵직한 상단",
-        "summary": "지난 23일 다우존스30산업평균지수가 1.23% 밀렸고 S&P500지수와 나스닥종합지수는 각각 0.52%와 0.21% 내렸다. 필라델피아 반도체지수는 0.44% 상승했다. 대외 변수들이 달러-원 하단을 받치지만 국내 수급 지형은 '팔자'가...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441053",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
+        "pub_date": "2026-10-27T00:58:00+09:00",
         "category": "경제",
         "query": "나스닥"
       },
       {
-        "title": "장동혁 “조희대, ‘李대통령 재판재개’ 결단 내려야”·정점식 “與,...",
-        "summary": "그는 “민주당이 국정감사 직후 조희대 대법원장 탄핵과 공소취소 특검법 추진을 예고했다”면서 “안보 불안, 한미 동맹의 균열, 코스피 폭락 등 국가적 위기가 중첩되는데도 이재명 정권의 관심사는 대통령 재판 취소...",
-        "link": "https://biz.heraldcorp.com/article/10914435?ref=naver",
+        "title": "\"비싸다 vs 이정표\"…앤스로픽 상장에 월가 기대 반 신중 반",
+        "summary": "김민정 특파원 = 인공지능(AI) 기업 앤스로픽이 26일(현지시간) 나스닥 상장을 공식 신청하면서 월가의 평가가 엇갈리고 있다. 앤스로픽은 이날 기업공개(IPO)를 위한 투자설명서(S-1)를 미 증권거래위원회(SEC)에...",
+        "link": "https://www.newspim.com/news/view/20261027000001",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "코스피"
-      },
-      {
-        "title": "삼성운용, 코스피200 월배당 ETF 2종 올해 개인 순매수 4조",
-        "summary": "|스마트투데이=최성 기자| 삼성자산운용은 코스피200 지수를 추종하는 KODEX 커버드콜 ETF 2종의 올해 개인 순매수 금액이 4조원을 돌파했다고 26일 밝혔다. KODEX 200타겟위클리커버드콜은 연초 이후 개인투자자...",
-        "link": "https://www.smarttoday.co.kr/ko-kr/articles/113114",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "코스피"
-      },
-      {
-        "title": "코스닥벤처펀드 투자도 벤처기업 인정 추진…운용사 초기투자 문턱 낮아...",
-        "summary": "코스닥벤처펀드와 창업벤처전문 사모펀드의 투자도 벤처기업 확인 요건에 반영할 수 있도록 제도 개선이... 방안에 코스닥벤처펀드와 창업벤처전문 사모펀드를 벤처기업 확인 적격투자기관에 포함하는 내용을 담았다....",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729105",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "[책과 사람] 현직 공무원이 전하는 활자의 힘…강희택 경기도의회 팀장...",
-        "summary": "이후 코스닥 상장기업에 입사하고 미국과 캐나다, 베트남 등에서 일과 사업을 경험했다. 현재는 경기도의회 공무원으로, 글과 영상 등을 활용해 의정 활동을 알리는 뉴미디어팀장을 맡고 있다. 다양한 현장에서 쌓은 경험은...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1335057",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "코스닥"
-      },
-      {
-        "title": "지방 신축 아파트 커뮤니티 고급화…스카이라운지·수영장 등 차별화",
-        "summary": "서울 강남권 고급 아파트를 중심으로 도입됐던 특화시설이 지방으로 확산하면서 주거 편의성과 여가시설이 단지 경쟁력을 좌우하는 요소로 주목받고 있다. 26일 한국갤럽조사연구소의 '2026 부동산 트렌드'에 따르면...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202610260952043755048b718333_18",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "서울 아파트"
-      },
-      {
-        "title": "서울 오피스텔 거래, 중소형 비중 지난해보다 커져",
-        "summary": "서울 오피스텔 거래에서 중소형 면적의 거래 비중이 커진 것으로 나타났습니다. 부동산 플랫폼 직방이... 아파트 가격 상승으로 거주비 부담이 늘면서 오피스텔 가운데 실거주가 가능한 면적의 거래 비중이 확대된...",
-        "link": "https://www.ytn.co.kr/_ln/0102_202610260956402879",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "서울 아파트"
-      },
-      {
-        "title": "[月朝 총력 특집] 북한의 '서울 불바다' 위협 <2> 우리 민방위는 제대로...",
-        "summary": "서울도 시설 수 기준 62%, 수용 인원 기준 72%가량이 '주차' 시설이다. 시설명에 '주차'가 들어가지 않은 곳에도 아파트 지하 공간 등이 상당수 포함돼 있어 실제 비중은 더 클 수 있다. 기존 건물의 지하 공간을 대피...",
-        "link": "https://monthly.chosun.com/news/articleView.html?idxno=71779",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "경제",
-        "query": "서울 아파트"
-      },
-      {
-        "title": "같은 S&P500인데 수익률 10%p 갈렸다…'환헤지'가 가른 서학개미 성적표",
-        "summary": "이러한 격차는 서학개미들이 집중적으로 담아온 기술주 중심의 나스닥100 지수 추종 ETF에서도 예외가 아니었다. 환노출형인 'TIGER 미국나스닥100'과 'KODEX 미국나스닥100TR'은 환차손 탓에 각각 -9.40%, -9.53%의 깊은...",
-        "link": "https://www.newsis.com/view/NISX20261026_0003840495",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:55:00+09:00",
+        "pub_date": "2026-10-27T00:58:00+09:00",
         "category": "경제",
         "query": "나스닥"
       },
       {
-        "title": "외국인 팔자에 코스피 5400선…코스닥도 1%대↓[시황]",
-        "summary": "코스피가 외국인의 매도세에 5400선까지 밀려났다. 코스닥도 1% 넘게 하락하며 양대 지수가 동반 약세를 보이고 있다. 26일 한국거래소에 따르면, 오전 9시50분 기준 코스피는 전 거래일 대비 59.70포인트(1....",
-        "link": "https://www.dailian.co.kr/news/view/1705989/?sc=Naver",
+        "title": "AI '클로드' 개발사 앤트로픽, IPO 절차 돌입… 역대 최대 규모 가능성",
+        "summary": "앤트로픽은 기술주 위주인 미국 나스닥 시장에서 종목 코드 ‘ANT’로 거래될 예정이다. 골드만삭스와... 나스닥 100 지수는 6일 기록한 사상 최고치에서 7% 넘게 하락했다. 여기에 안전성에 대한 우려도 포개진다....",
+        "link": "https://www.hankookilbo.com/news/article/A2026102700510005629?did=NA",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:55:00+09:00",
+        "pub_date": "2026-10-27T00:57:00+09:00",
+        "category": "경제",
+        "query": "나스닥"
+      },
+      {
+        "title": "탄핵과 특검 무한반복하는 민주당",
+        "summary": "코스피도 26일 1.46% 떨어진 5469.47로 마감해 약 7개월 만에 최저치를 기록했다 밖에선 사법부와 싸우고, 안에선... 이재명 정부 출범 이후 파죽지세로 9000포인트를 돌파했던 코스피는 불과 넉 달 만에 반토막 가까이...",
+        "link": "https://www.chosun.com/politics/assembly/2026/10/27/TH7APOWZSVDH3PYSMHLJWP5FIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:56:00+09:00",
         "category": "경제",
         "query": "코스피"
+      },
+      {
+        "title": "아이브 안유진, 디에이치 방배 청약 당첨 근황 보니…\"부모님 사는 듯\"...",
+        "summary": "앞서 안유진이 서울 서초구 방배5 구역을 재건축한 '디에이치 방배' 일반분양 추첨에 당첨됐다는 소식이 전해졌다. 해당 아파트 일반분양 추첨제 당첨 현황 자료에 따르면 20대(1997년생부터 2006년생)는 4명으로...",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16258776",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:56:00+09:00",
+        "category": "경제",
+        "query": "서울 아파트"
+      },
+      {
+        "title": "뷰노, 주초장 상한가…주가 흐름 '이목'",
+        "summary": "뷰노는 이날 코스닥 시장에서 전 거래일 대비 1770원(+29.95%) 오른 7680원에 거래를 마쳤다. 주초장부터 가격제한폭까지 상승하면서 강한 주가 움직임을 나타냈다. 특히 10월 마지막 주 첫 거래일에 상한가를 기록했다는...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=619394",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:40:00+09:00",
+        "category": "경제",
+        "query": "코스닥"
+      },
+      {
+        "title": "日 투자사 “JYP 지분 최대 50% 공개매수” JYP는 “제안 받은 바 없어”...",
+        "summary": "트와이스(TWICE), 스트레이 키즈(Stray Kids), 있지(ITZY), 엔믹스(NMIXX) 등 다수 K팝 아티스트가 소속돼 있다. 음반·음원 제작과 아티스트 매니지먼트 등을 주요 사업으로 하며 코스닥 상장사다.",
+        "link": "https://www.newsen.com/news_view.php?uid=202610270017315710",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:38:00+09:00",
+        "category": "경제",
+        "query": "코스닥"
+      },
+      {
+        "title": "[경제시평] 주주와 성장, 두 마리 토끼 잡으려면",
+        "summary": "최근 SK하이닉스가 미국 손자회사인 솔리다임의 나스닥 상장을 추진하다 중복 상장 논란 끝에 검토를... 건너 나스닥까지 미치지 못한다. 공정거래법이 지배구조 피라미드의 무한 확장을 막는 삼단 제한 규제도 국내...",
+        "link": "https://www.kmib.co.kr/article/20261026501880",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:34:00+09:00",
+        "category": "경제",
+        "query": "나스닥"
+      },
+      {
+        "title": "롯데百 매출 1위 잠실점, 식품관 새 단장한다",
+        "summary": "잠실은 고가 아파트가 많은 고소득 상권이자, 최근 서울을 찾는 외국인 관광객의 핵심 동선이기도 하다. 이런 상권 특성과 외국인 손님을 겨냥해 고급화와 쇼핑 환경 개선으로 승부수를 던진 것으로 해석된다. 실적...",
+        "link": "https://www.chosun.com/economy/market_trend/2026/10/27/NF3TXZPYNRECFFFJZFT3TQ7ATM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:34:00+09:00",
+        "category": "경제",
+        "query": "서울 아파트"
+      },
+      {
+        "title": "상하위 20% 집값 격차 290배 사상 최대",
+        "summary": "5%에 달했다. 한편 이번 통계에는 올해 집값 상승분이 반영되지 않았다. 서울 아파트값이 올해 들어 10월 셋째 주까지 8.63% 오른 점을 감안하면, 실제 체감하는 부동산 자산 격차는 이보다 더 벌어졌을 가능성이 크다.",
+        "link": "https://www.chosun.com/economy/real_estate/2026/10/27/Q3NS2ZN77BHWNL27WTAEJNMSIM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:33:00+09:00",
+        "category": "경제",
+        "query": "서울 아파트"
       }
     ],
     "시사": [
       {
-        "title": "대선조선, 워크아웃 3년 만에 졸업…'SB대선'으로 재도약",
-        "summary": "대선조선 다대 공장. 사진=대선조선, 연합뉴스  부산의 중견 조선사 대선조선이 3년간의 워크아웃(기업개선작업)을 마무리하고 새 출발에 나선다. 한국수출입은행(이하 '수은')은 지난 25일 금융채권자협의회가...",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323524",
+        "title": "[뉴미디어 민심] '오세훈 2심무죄'가 커뮤니티와 알고리즘을 만나면",
+        "summary": "보수성향 커뮤니티 '에펨코리아(펨코)'에서는 '오세훈 눈물의 무죄 소감 \"심려끼쳐 죄송...앞으로 조심히 처신하겠다\"...사람이 일단 경거망동 않고 품격이 있다니깐', '차기 대선 유력 떴네', '지금 좌파에겐 조희대가...",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=317441",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T02:03:00+09:00",
         "category": "시사",
         "query": "대선"
       },
       {
-        "title": "브라질 대선서 룰라 당선 확정…통산 4선 성공",
-        "summary": "브라질 대선 결선투표에서 플라비우 보우소나루 상원의원을 꺾고 통산 4선에 성공했다. 브라질... 1989년 첫 대선 출마 이후 통산 7차례 대권 도전에서 4승 3패(4차례 당선, 3차례 낙선)의 기록을 썼다. 반면 부친 자이르...",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=2010128",
+        "title": "테슬라, 전기차 판매 넘어 ‘자율주행 구독’ 수익 확대 승부",
+        "summary": "이스라엘 자율주행 기술업체 오토브레인스의 이갈 라이헬가우즈 CEO는 “주요 자동차 제조업체들이 사업 전략을 전면적으로 재검토하고 있다”고 설명했다. 그는 운전자가 전방을 계속 주시하지 않아도 되는 고도화된...",
+        "link": "https://www.g-enews.com/view.php?ud=2026102620585557199a1f309431_1",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T02:00:00+09:00",
+        "category": "시사",
+        "query": "이스라엘"
+      },
+      {
+        "title": "\"美, 트럼프 명령 땐 96시간 내 대이란 대규모 군사작전 가능\"",
+        "summary": "미국 정보당국은 이란과 예멘의 친이란 무장세력인 후티 반군이 미국과 이스라엘의 공격 재개 가능성을... 이스라엘도 이란에 대한 추가 공격을 준비해 왔으며, 미국에 작전 지원을 요청한 것으로 전해졌다. 다만 미국은...",
+        "link": "https://www.newsis.com/view/NISX20261027_0003841972",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:54:00+09:00",
+        "category": "시사",
+        "query": "이스라엘"
+      },
+      {
+        "title": "폭력시위에 1435명 체포…마크롱 “SNS는 민주주의 손상시켜”",
+        "summary": "26일(현지시간) AFP·로이터통신에 따르면 마크롱 대통령은 이날 마르세유를 방문해 대선을 반년 앞두고 이런 소요 사태가 벌어지는 것은 정상적이지 않다고 말했다. 마르세유에서는 지난 17일 교육 환경 개선과 고물가...",
+        "link": "https://www.joongang.co.kr/article/25473052",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:48:00+09:00",
         "category": "시사",
         "query": "대선"
       },
       {
-        "title": "국민의힘 \"오세훈 2심 완벽하게 무죄 판결… 이런 게 '조작 기소'\"",
-        "summary": "정점식 원내대표도 \"민주당은 공소취소 특검에 대해 자꾸 '조작기소'라고 분칠한다\"며 \"총선이 코앞에 다가오기 전에 공소취소를 미리 끝내고 싶을 것이다. 대통령 임기는 3년 넘게 남았지만, 대통령 재판 삭제를 위한...",
-        "link": "https://www.pressian.com/pages/articles/2026102609394775897?utm_source=naver&utm_medium=search",
+        "title": "마크롱, 폭력사태에 SNS 탓…“우리 민주주의 손상시켜”",
+        "summary": "AFP, 로이터 통신에 따르면, 마크롱 대통령은 마르세유를 찾아 대선을 반년 앞두고 이같은 소요 사태가 벌어진 건 '정상적이지 않다'고 취재진에게 말했습니다. 마크롱 대통령은 \"SNS는 우리 민주주의를 손상시킨다\"며...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695834&ref=A",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T01:46:00+09:00",
         "category": "시사",
-        "query": "총선"
+        "query": "대선"
       },
       {
-        "title": "'작은 교회'들의 종교개혁주일 \"천국 열쇠, 목사만 가진 것 아냐\"",
-        "summary": "전쟁이 이어지는 중동과 우크라이나, 군사적 긴장이 정치에 이용되는 한반도의 평화를 구했다. 설교를 맡은 박창훈 목사(언덕교회·서울신대 교회사 교수)는 에베소서 2장 7절을 본문으로 '종교개혁의 정신'을 이야기했다....",
-        "link": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400828",
+        "title": "트럼프·오바마의 '라스트 배틀'…두 거물의 자리 누가 이을까",
+        "summary": "특유의 개성과 호소력으로 오바마 전 대통령은 2008·2012년, 트럼프 대통령은 2016·2024년 대선을 승리로... 따라서 선거 이후 양당에서 어떤 인물이 새 시대정신을 들고 전면에 나와 다가오는 2028년 대선의 선봉에 서게 될지...",
+        "link": "https://www.yna.co.kr/view/AKR20261027001400071?input=1195m",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
+        "pub_date": "2026-10-27T01:38:00+09:00",
+        "category": "시사",
+        "query": "대선"
+      },
+      {
+        "title": "[특파원 칼럼] 전작권 전환, '조건기반' 지켜야",
+        "summary": "러시아의 우크라이나 침공, 이란전이 격화시킨 중동 내 갈등, 중국의 대만병합 의지 등은 세계가 이전과 다른 국면에 접어들 가능성을 시사한다. 한반도가 다음 전장이 될 수 있다는 시나리오도 심심치 않게 제기된다....",
+        "link": "https://www.hankyung.com/article/2026102660591",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:33:00+09:00",
         "category": "시사",
         "query": "우크라이나"
       },
       {
-        "title": "금(금값, 금시세) 10월 26일",
-        "summary": "미국과 이스라엘의 추가 군사행동 가능성이 거론되는 가운데 이란 역시 자국이 공격받을 경우 역내 미국... 다만 미국과 이스라엘의 새로운 대규모 군사작전이 실제로 시작됐다는 사실은 확인되지 않았다. 추가 공격...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=619189",
+        "title": "감나무 밑에서 입 벌린 국민의힘...'반사이익에 취했다'",
+        "summary": "2026.10.26 (사진=연합뉴스) ① \"장동혁으로 총선 이길 수 있나\"...장동혁 리더십 위기 여전 리얼미터가 26일... 녹취록을 공개한 친윤 유투버측에서는 \"장동혁으로 총선을 이길 수 있겠는가\"라는 의문부호를 던졌다고 한다....",
+        "link": "https://www.newsverse.kr/news/articleView.html?idxno=11764",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:58:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "[종합] 브라질 룰라 대통령, 결선투표 역전승…사상 첫 4선 성공",
-        "summary": "룰라 대통령이 25일(이하 현지시각) 치러진 브라질 대선 결선투표에서 승리하며 4선에 성공했다고 CNBC가 26일... ◇트럼프 행정부와 관계도 주요 변수 이번 브라질 대선 결과는 미국과 중남미 국가들의 관계에도 영향을...",
-        "link": "https://www.g-enews.com/view.php?ud=2026102609540023709a1f309431_1",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "[뉴공 아카이브]겸손NSC: 김정은, 신압록강대교 건너 中 방문… 북미대...",
-        "summary": "지금쯤 브라질 대선의 결과가 날 줄 알고 모셨는데 지금 시간이 투표 시간이 연장됐다는 거 아닙니까?조희문... 룰라가 브라질이 민주화 이후로 유일하게 대선에 계속 나오신 분이 룰라거든요. 한 40년 가까이 됐죠.▶김어준...",
-        "link": "http://www.ddanzi.com/897663084",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "[전형일의 우수마발(牛溲馬勃)] 북한상과 낭고상",
-        "summary": "1920년 공화당은 상원의원 하딩을 대선 후보로 내세웠다. 이유는 단지 남자답고 위엄 있는 외모로 대통령처럼 생겨서였다. 그럼에도 그는 처음부터 대통령감이 아니었다. 그 스스로 \"나는 대통령이 맞지 않은 사람이다. 이...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418229",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "룰라, 브라질 대선서 역전극 펼치며 4선 성공…득표율 51.77%",
-        "summary": "브라질 선거 당국은 루이스 이나시우 룰라 다 시우바(80) 대통령이 대선 결선투표에서 대통령에... AFP통신에 따르면 지난 4일 실시된 대선 1차 투표에서 좌파 노동자당(PT) 소속 룰라 대통령은 45.16%를 득표해 우파...",
-        "link": "https://www.sidae.com/article/2026102609523479728",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "천하람 \"경기 남부로 지역구 옮길 의향 없어...순천시민과의 약속 지키...",
-        "summary": "천 원내대표는 이날 개혁신당 비상대책위원회 모두발언을 통해 \"저는 기존과 같이 앞으로도 순천갑 당협위원장을 맡기를 희망하고, 순천에서의 총선 당선을 위해 최선을 다하고자 한다\"며 이같이 말했다. 천하람 개혁신당...",
-        "link": "https://www.newspim.com/news/view/20261026000269",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
+        "pub_date": "2026-10-27T01:32:00+09:00",
         "category": "시사",
         "query": "총선"
       },
       {
-        "title": "“완전한 항복은 없다”… 끝까지 팽팽한 미·이란의 치킨게임 [밀리터...",
-        "summary": "미국과 이스라엘의 중대 선거를 목전에 두고 중동을 둘러싼 전운이 최고조에 달한다. 트럼프 미국 대통령의... 폭풍 전의 노심초사… 이란 국민들과 이스라엘의 강경 경고 이란 현지 분위기는 살얼음판을 걷고 있다. 미국과...",
-        "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/10/26/20261026500034?wlog_tag3=naver",
+        "title": "[기고] 韓·英 원전 협력으로 에너지안보 강화해야",
+        "summary": "러시아의 불법적인 우크라이나 침공은 핵심 산업이 신뢰할 수 없는 공급처에 과도하게 의존할 때의 위험을 여실히 드러냈다. 전쟁은 유럽의 원자력 안전과 핵안보에 직접적인 영향을 미쳤으며, 에너지 공급망과 지정학을...",
+        "link": "https://www.hankyung.com/article/2026102659521",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "[신윤우의 외환분석] 중동 들썩여도 묵직한 상단",
-        "summary": "미국은 지난 2월 이스라엘과 함께 이란을 상대로 '장대한 분노' 작전을 펼치면서 전쟁을 시작했다. 트럼프... 이란은 미국과 이스라엘이 다시 이란을 공격할 경우 걸프 해역 해저 케이블뿐 아니라 비밀 기지를 포함한...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441053",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:56:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "장동혁 \"박균택·양부남...법무부를 '李 공소취소' 로펌으로 만드나\"",
-        "summary": "2022년 대선 당시 이재명 후보 캠프의 법률 지원을 맡았다. 이후 민주당 법률위원장으로 활동하며 이 대통령을... 2022년 대선 당시 법률 지원단장을 맡아 사법 리스크 대응을 총괄했다\"고 지적했다. 이어 \"이미 대통령 사건의...",
-        "link": "http://www.inews24.com/view/2018787",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:55:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "7세부터 구두 닦던 룰라, 브라질 대통령 4선 성공…역전승 썼다",
-        "summary": "암 투병과 수감 생활을 겪고도 정치 무대에 복귀한 그는 이번 대선에서도 1차 투표의 열세를 뒤집고 승리했다. 룰라 대통령은 25일(현지시간) 브라질 대선 결선투표에서 자이르 보우소나루 전 대통령의 아들 플라비우...",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000076589",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:55:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "브라질 대선서 룰라 당선 확정…4선 대통령 대기록",
-        "summary": "트럼프 2기가 출범한 2025년 1년 이후 처음으로 중남미 국가 대선에서 좌파 진영이 승리하면서 중남미 대륙을 강타한 블루타이드(우파 집권 물결)에도 제동이 걸리게 됐습니다.",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5227060",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:55:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "개표 막판 뒤집은 룰라...보우소나루 장남 꺾고 통산 4선 성공",
-        "summary": "|중앙이코노미뉴스 엄현식 기자|루이스 이나시우 룰라 다시우바 브라질 대통령이 대선 결선투표에서... [사진=AP연합]  루이스 이나시우 룰라 다시우바 브라질 대통령이 대선 결선투표에서 플라비우 보우소나루...",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=558108",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:54:00+09:00",
-        "category": "시사",
-        "query": "대선"
-      },
-      {
-        "title": "[포착] 네타냐후, ‘핵 공격 당한 이스라엘’ AI 사진 공개…공포심 조...",
-        "summary": "총선을 코앞에 둔 베냐민 네타냐후 이스라엘 총리가 최근 자신의 엑스(X) 계정에 올린 사진과 글이 논란이... 네타냐후 총리는 블룸버그의 글을 공유한 이후 총선을 앞두고 공포심을 조장한다는 비판을 받았다. 이번...",
-        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20261026601003&wlog_tag3=naver",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:53:00+09:00",
-        "category": "시사",
-        "query": "총선"
-      },
-      {
-        "title": "'중동 긴장 고조'에 코스피 하락 출발…낙폭 줄이며 장중 상승 전환도",
-        "summary": "미국과 이스라엘이 이란에 대한 공습 재개를 검토한다는 보도가 나오며 양국 간 긴장이 다시 격화할 수 있다는 우려가 커졌습니다. 이에 지난 23일(현지 시간) 인도분 브렌트유는 3.1% 올라 배럴당 116.72달러를...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814612&plink=ORI&cooper=NAVER",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:53:00+09:00",
-        "category": "시사",
-        "query": "이스라엘"
-      },
-      {
-        "title": "2인자도 아닌 서열 4위가 맞이...김정은 여섯 번째 방중에 없어진 세 가...",
-        "summary": "두 번째 목적은 지난 2024년 이후에 북한군이 러시아-우크라이나 전쟁에 1만 5000명 이상을 파병하고 있는데 그럼으로써 북중, 북러 관계에서 무게중심이 북러 관계에 실리는 것이 아니냐. 이 균형추를 맞추는. 북한의...",
-        "link": "https://www.ytn.co.kr/_ln/0134_202610260952505972",
-        "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:52:00+09:00",
+        "pub_date": "2026-10-27T01:31:00+09:00",
         "category": "시사",
         "query": "우크라이나"
       },
       {
-        "title": "\"접전 선거 앞둔 네타냐후, 트럼프에 추가 공개 지지 요청\"",
-        "summary": "오는 27일 열릴 이스라엘 총선거를 앞두고 베냐민 네타냐후 이스라엘 총리가 트럼프 미국 대통령에게 추가... 27일 치러질 총선에서는 단원제인 이스라엘 국회(크네세트)의 의원 120명 전원이 새로 선출됩니다. 이스라엘의...",
-        "link": "https://www.ytn.co.kr/_ln/0104_202610260951301907",
+        "title": "“美, ‘유럽의 트럼프’ 오르반 유엔총장 추진”",
+        "summary": "언론과 사법부에 대한 통제를 강화하고 유럽연합(EU)과 갈등을 빚어왔으며 지난 4월 총선에서 패배해 16년 만에 자리에서 물러났다. 트럼프 대통령은 지난 4월 헝가리 총선에서 오르반 전 총리를 공개 지지했고, JD 밴스...",
+        "link": "https://www.segye.com/newsView/20261027500454?OutUrl=naver",
         "source": "네이버뉴스",
-        "pub_date": "2026-10-26T09:51:00+09:00",
+        "pub_date": "2026-10-27T01:29:00+09:00",
+        "category": "시사",
+        "query": "총선"
+      },
+      {
+        "title": "유럽 고물가 항의 시위 거센데…가스값 ㎿h당 100유로 위협",
+        "summary": "우크라이나 전쟁 초기 300유로까지 넘었던 유럽 에너지 위기 당시의 최고점에는 미치지 못하지만, 이란 전쟁 발발 직전과 비교하면 훨씬 높은 수준이다. 중동 전쟁으로 글로벌 가스 공급에 차질이 빚어져 가스 확보...",
+        "link": "https://www.yna.co.kr/view/AKR20261027001600085?input=1195m",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:28:00+09:00",
+        "category": "시사",
+        "query": "우크라이나"
+      },
+      {
+        "title": "[이스라엘 총선 르포] 하레디의 요새 메아 셰아림…\"병역보다 중요한 건...",
+        "summary": "총선을 하루 앞둔 26일 오후(현지시간) 이스라엘 전역은 전쟁 중 치러질 선거 열기로 뜨겁지만, 메아 셰아림의... 이번 총선의 전체 유권자 730만명 중 하레디 비중은 10.5%에 해당하며, 2022년 선거를 통해 크네세트 원내에...",
+        "link": "https://www.yna.co.kr/view/AKR20261027001200079?input=1195m",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:20:00+09:00",
+        "category": "시사",
+        "query": "총선"
+      },
+      {
+        "title": "[시사천국] 법무부장관 '하마평' 주목, 청와대 선택은?",
+        "summary": "다음 총선을 이 관망판은 다음 총선을 다음 선거를 장동혁 대표의 얼굴로 치르기는 무리다라는 인식이 되게 강해요. 근데 한동훈 전 대표를 한동훈 의원을 복당시켜서 우리가 복당시키면 우리 공천이 다 날아갈 수도 있어...",
+        "link": "https://news.cpbc.co.kr/article/1176578?division=NAVER",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:12:00+09:00",
+        "category": "시사",
+        "query": "총선"
+      },
+      {
+        "title": "美, 차기 유엔 사무총장에 '오르반 전 헝가리 총리' 출마 권유",
+        "summary": "◆ 미국, 오르반 MAGA 운동 부합 보수 성향 후보 평가 오르반은 지난 4월 헝가리 총선에서 패배하면서 16년간의 연속 집권을 마쳤다. 그는 재임 기간 트럼프 대통령과 마찬가지로 반이민 정책과 보수주의, 국가주권을...",
+        "link": "https://www.newspim.com/news/view/20261027000002",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:07:00+09:00",
+        "category": "시사",
+        "query": "총선"
+      },
+      {
+        "title": "미군, 트럼프 명령 후 96시간 내 대규모 이란 공격 준비 마쳐",
+        "summary": "이스라엘도 새로운 공격을 준비해온 것으로 전해졌다. 이스라엘 안보 소식통들은 지난 1주일여 이란 재공격 가능성에 대비해온 이스라엘이 미국에 새로운 공습을 지원하고 작전을 보완해달라고 요청했다고 CNN에 밝혔다....",
+        "link": "https://view.asiae.co.kr/article/2026102701044553862",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:04:00+09:00",
+        "category": "시사",
+        "query": "이스라엘"
+      },
+      {
+        "title": "美 국채가, 보합권 좁게 등락…FOMC 회의 대기",
+        "summary": "달러-헤알화 환율도 전장 대비 10.89% 폭등한 5.518헤알을 가리키고 있다. 브라질 대선에서 좌파 성향의 루이스 이나시우 룰라 다시우바 브라질 대통령이 재선에 성공하자 금융시장이 발작 증세를 일으키는 중이다.",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441188",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:02:00+09:00",
+        "category": "시사",
+        "query": "대선"
+      },
+      {
+        "title": "국제유가, 이란 재공격 우려 속 114달러대로 하락",
+        "summary": "파이낸셜타임스(FT)는 국제유가가 3주 연속 상승한 뒤 26일(이날 현지시각) 하락했지만 시장 참가자들은 여전히 중동 분쟁과 원유 공급 차질 위험에 집중하고 있다고 이날 보도했다. 국제유가 기준물인 브렌트유 선물은...",
+        "link": "https://www.g-enews.com/view.php?ud=2026102620472149159a1f309431_1",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:02:00+09:00",
+        "category": "시사",
+        "query": "중동 분쟁"
+      },
+      {
+        "title": "비트코인(BTC), 중동 위기에 혼자 '휘청'...주말 롱 청산 폭탄에 개미 비...",
+        "summary": "10월 26일(현지시간) 암호화폐 전문 매체 코인게이프에 따르면 중동 분쟁 지역 곳곳에서 새로운 군사 공격이 이어지며 글로벌 시장을 뒤흔들었다. 전통 금융시장이 휴장한 주말 동안 비트코인이 충격을 흡수하면서...",
+        "link": "http://coinreaders.com/265342",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:02:00+09:00",
+        "category": "시사",
+        "query": "중동 분쟁"
+      },
+      {
+        "title": "룰라의 역전승 뒤엔 팔로어 1100만 명 왓츠앱 부대 있었다",
+        "summary": "룰라 대통령이 지난 25일(이하 현지시각) 치러진 대선 결선투표에서 플라비우 보우소나루 상원의원을 꺾고... ◇1차 투표 패배 후 3주…왓츠앱 채널 팔로어 1100만명 룰라 대통령은 지난 4일 실시된 대선 1차 투표에서...",
+        "link": "https://www.g-enews.com/view.php?ud=2026102618494226389a1f309431_1",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T01:00:00+09:00",
+        "category": "시사",
+        "query": "대선"
+      },
+      {
+        "title": "\"美, '유럽의 트럼프' 오르반 유엔총장 추진…독재자 옹호 우려\"<WSJ>",
+        "summary": "언론과 사법부에 대한 통제를 강화하고 유럽연합(EU)과 갈등을 빚어왔으며, 지난 4월 총선에서 패배해 16년 만에 자리에서 물러났습니다. 트럼프 대통령은 지난 4월 헝가리 총선에서 오르반 전 총리를 공개 지지했고, JD...",
+        "link": "http://www.yonhapnewstv.co.kr/news/AKR20261027005628IX7",
+        "source": "네이버뉴스",
+        "pub_date": "2026-10-27T00:57:00+09:00",
         "category": "시사",
         "query": "총선"
       }
